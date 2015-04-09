@@ -1,0 +1,16 @@
+
+>>>>>>>> Chuyen ve Term 01600001
+
+VISA Transaction 111
+- Withdraw 102 Succ
+           501 Succ 
+		   503 Succ
+
+Other Visa Transaction 130
+- Withdraw 102 Uncuess
+- Cac gd khac
+- Loai tru 1 so resp
+
+Sett 110
+- Withfraw 102 Succ
+- Chargeback Succ

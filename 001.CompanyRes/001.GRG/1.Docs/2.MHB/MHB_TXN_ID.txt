@@ -1,0 +1,20 @@
+
+
+
+102 = Withdraw
+500 = ChargeBack = GD goc k thanh cong thi se co GD Chargeback bao la GD goc k thanh cong
+501 = ChargeBack Reversal
+502 = Representment = Goi lai cho nhung GD goc dc goi k thanh cong, nhung thay vi lay gd goc goi, se lay gd chargeback cua no
+                      Charge Back fai State New 
+504 = Fee Collect
+506 = Disbursement
+507 = Debit Adjustment
+508 = Credit Adjustment
+
+050 = Sign in
+051 = Sign out
+054 = Sign on Advice Retrieval
+055 = Sign off Advice Retrieval
+052 = Echo Test
+
+
