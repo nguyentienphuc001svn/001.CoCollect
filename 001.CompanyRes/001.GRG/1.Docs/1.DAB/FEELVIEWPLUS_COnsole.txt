@@ -1,0 +1,14 @@
+
+Add Terminal
+
+ATM Device Status Monitoring
+
+Transaction Monitoring
+
+SMS Rule
+
+Distribution
+
+Statistics
+
+BOAS
