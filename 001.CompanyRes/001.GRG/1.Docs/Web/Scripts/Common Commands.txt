@@ -1,0 +1,8 @@
+
+1>> Show the current user
+sho user
+
+2>> To see all the privilege that we can grant to a role/user
+select * from system_privilege_map
+
+
