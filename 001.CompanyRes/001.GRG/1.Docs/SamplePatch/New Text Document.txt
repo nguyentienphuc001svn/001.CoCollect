@@ -1,0 +1,27 @@
+ 
+
+ 
+Dear Hung,
+ 
+Please take a look at to review the MHB ViewServer Hang Issue.
+ 
++ Description: This isuse is about the ViewServer is hang thus cannot receive data from Switch (Status and CashLoad Data)
+
++ Code review: I put all code at link
+https://192.168.11.100/svn/Projects/Vietnam/SGB/Tags/FEELView_3.1_SGB_N1.0_sp002
+ 
++ Database script: N/A
+ 
++ Document review: N/A
+
++ Testing case:
+   - Run the ViewServer in both GRG and SGB test environment for monitoring 
+ 
++ Testing result or verified:
+	- The ViewServer can be run well for more than one month
+ 
+If you have more questions or I’m missed some things, please let me know.
+ 
+Thanks,
+Nguyen Tien Phuc
+ 
