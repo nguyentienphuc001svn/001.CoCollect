@@ -1,0 +1,101 @@
+418 = Tong quat ve format cua tat ca cac Report ma Visa goi
+531 = All Info about raw data
+
+436B/22 Ba Thang Hai P12 Q10
+zentao = kevin 123456
+svn = ntphuc ntphuc123
+Win Lockscreen = grgfeel 
+kevin 123
+658
+
+
+
+
+
+
+
+
+===========================================================================================================================
+
+W:
+1. Don lai may
+2. Lam lai tat cac cac WM cua console - Up len SVN Het
+
+Report:
+
+
+
+
+
+
+MHB [2.6-] [3.1 12]===========================================================================================================================
+>>Devicecheck qui dinh ve offline
+>>MsgParser co 2 doBusn >> Da coi 1 cai cai kia k anh huong
+>>Sleep time 5s cho null MsgStream la OK
+
+1. Check Offline
+2. Cai bug thi dump
+
+3. VISA
+- Khong dong lai switch, dang bi phan quyen
+- Build lai cuc ccas cho dung 64 bit
+
+
+
+
+
+
+ 
+ 
+SGB[68]================================================================================================================================
+>>Loi Status: Up lai file list --- Chinh lai thoi gian check la 18 --- Status 2 va 9 muon chuyen gi thi chuyen, hien tai la chuyen thanh 0, chu y chuyen cho 2 noi
+
+1.
+Lay lai du lieu moi toan bo web va DB va console --> Thiet lap lai cho minh
++ Cac Update gan day nhat da co tren TestServer cua ho chua: VISA, Settle, Cai trong list a Trong va a Phuoc
++ Update cai visa co lay tu 2 bang txnlog va txnlog 20 chua
+
+4. Xong vu H68 ---> Lay Data ve de lam server cho minh ---> Lam ra goi Real ---> Test voi goi real ---> Go live ---> UAT
+5. Lam cao vu deposit error
+
+
+
+
+
+
+
+
+JDB================================================================================================================================
+1. Thiet lap enviroment ve ben minh
+2. Tao svn
+3. Lam cho no cai report
+
+
+
+
+
+
+
+
+PHP [92]================================================================================================================================
+1. 1. Thiet lap enviroment ve ben minh
+2. Tao svn
+3. Lam Cai Runserver
+4. Check lai cai collection fee
+
+
+
+
+
+
+
+
+Payment Gateway [190]================================================================================================================================
+1. Lam DB cho the chua Chinese character
+
+
+
+
+
+
+
