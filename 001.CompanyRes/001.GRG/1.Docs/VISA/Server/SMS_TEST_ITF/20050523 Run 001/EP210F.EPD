@@ -1,0 +1,17 @@
+REPORT EP-210F  INCOMING INTERCHANGE                     VISANET EDIT PACKAGE                    TEST                   PAGE       1
+SYSTEM DATE 05/05/23   RELEASE  3.00                    INCOMING BATCH SUMMARY                                        CPD   05/05/23
+jdb                                                          CENTER 436805                                              RUN NO   001
+
+                                                FINANCIAL                  FINANCIAL     NON-FINANCIAL
+                                                  COUNT                      AMOUNT          COUNT
+
+BASE II FILE ID: 436805020050523A0507OCE
+
+            BATCH        1                              0                       0.00               805
+
+            FILE         1                              0                       0.00               805
+
+
+            CPD      05143                              0                       0.00               805
+
+RUN SUMMARY              1                              0                       0.00               805

@@ -1,0 +1,56 @@
+REPORT EP-999   INCOMING INTERCHANGE                     VISANET EDIT PACKAGE                    TEST                   PAGE       1
+SYSTEM DATE 05/05/23   RELEASE  3.00                       INDEX OF REPORTS                                           CPD   05/05/23
+jdb                                                                                                                     RUN NO   001
+
+
+          REPORT NO.   TITLE                                                                                   NO OF PAGES
+
+          INCOMING INTERCHANGE CONTROL REPORTS
+            EP-200A    VALIDATION EXCEPTION DETAIL REPORT                                                                1  NULL
+            EP-200B    VALIDATION EXCEPTION SUMMARY BY BIN                                                               1  NULL
+            EP-200C    VALIDATION EXCEPTION SUMMARY BY CENTER                                                            1  NULL
+            EP-204A    BASE II RETURNED ITEM DETAIL REPORT                                                               1  NULL
+            EP-204B    BASE II RETURNED ITEM SUMMARY BY BIN                                                              1  NULL
+            EP-204C    BASE II RETURNED ITEM SUMMARY BY CENTER                                                           1  NULL
+            EP-206A    CRS - RETURNED ITEM DETAIL                                                                        1  NULL
+            EP-206B    CRS - RETURNED ITEM SUMMARY BY BIN                                                                1  NULL
+            EP-206C    CRS - RETURNED ITEM SUMMARY BY CENTER                                                             1  NULL
+            EP-210B    INCOMING INTERCHANGE BATCH SUMMARY                                                                1
+            EP-210C    INCOMING INTERCHANGE FILE SUMMARY                                                                 1
+            EP-210D    INCOMING INTERCHANGE CPD SUMMARY                                                                  1
+            EP-210E    INCOMING INTERCHANGE RUN SUMMARY                                                                  1
+            EP-210F    INCOMING BATCH SUMMARY                                                                            1
+            EP-211C    FILE SUMMARY BY CURRENCY CODE                                                                     1  NULL
+            EP-211D    CPD SUMMARY BY CURRENCY CODE                                                                      1  NULL
+            EP-211E    RUN SUMMARY BY CURRENCY CODE                                                                      0  NULL
+            EP-220     COLLECTED RECONCILIATION SUMMARY                                                                  1  NULL
+            EP-221B    COLLECTED BATCH ACKNOWLEDGEMENT                                                                   1  NULL
+            EP-221D    COLLECTED BATCH ACKNOWLEDGEMENT CPD SUMMARY                                                       1  NULL
+            EP-221E    COLLECTED BATCH ACKNOWLEDGEMENT RUN SUMMARY                                                       1  NULL
+            EP-230     INTERCHANGE TRANSACTION FILE DISTRIBUTION                                                         1
+            EP-240     FEE COLLECTION / FUNDS DISBURSEMENT                                                               1  NULL
+
+          PROCESS CONTROL REPORTS
+            EP-299     PROCESSING LOG                                                                                    3
+
+          GENERAL DELIVERY OR GENERATED REPORTS FROM VISA
+            EP-747     VIC SETTLEMENT REPORTS (TC 47)                                                                   73
+
+          OPTIONAL TRANSACTION REPORTS REQUESTED THIS RUN
+            EP-701     UNFORMATTED TRANSACTION-BASED REPORT                                                              1  NULL
+            EP-702     UNFORMATTED TRANSACTION-BASED REPORT                                                              1  NULL
+            EP-703     UNFORMATTED TRANSACTION-BASED REPORT                                                              1  NULL
+            EP-704     RECLASSIFICATION ADVICE                                                                           1  NULL
+            EP-733     UNFORMATTED TRANSACTION-BASED REPORT                                                              1  NULL
+            EP-740     FRAUD ADVICE                                                                                      1  NULL
+            EP-742     MERCHANT FILE UPDATE RECORD 1                                                                     1  NULL
+            EP-743     MERCHANT FILE UPDATE RECORD 2                                                                     1  NULL
+            EP-746     MEMBER SETTLEMENT DATA                                                                            5
+            EP-748S    BASE I ADVICES (STANDARD)                                                                         1  NULL
+            EP-750     TEXT MESSAGES                                                                                     1  NULL
+            EP-751     REQUESTS FOR ORIGINAL                                                                             1  NULL
+            EP-752     REQUESTS FOR COPY                                                                                 1  NULL
+            EP-753     CONFIRMATION RESPONSES                                                                            1  NULL
+            EP-755     REGIONAL CARD RECOVERY FILE RECORDS - RCRF MESSAGE                                                1  NULL
+            EP-756     CURRENCY CONVERSION RATES                                                                         1  NULL
+            EP-758     NATIONAL SETTLEMENT ADVICES                                                                       1  NULL

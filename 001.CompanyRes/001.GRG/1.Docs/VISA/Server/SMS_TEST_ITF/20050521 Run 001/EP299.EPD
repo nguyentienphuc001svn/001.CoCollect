@@ -1,0 +1,121 @@
+REPORT EP-299   INCOMING INTERCHANGE                    VISANET EDIT PACKAGE                     TEST                   PAGE       1
+SYSTEM DATE 05/05/21   RELEASE  3.00                       PROCESSING LOG                                             CPD   05/05/21
+jdb                                                         CENTER 436805                                               RUN NO   001
+
+LOG FILE LAST REORGANIZED ON 05/05/01     FILE STATUS IS GOOD
+
+JOB STARTED  05/05/21   17:15:15
+
+   E3C300     0002-I        00000 RECORDS PURGED FROM LOG FILE
+   E3C460     0061-I        ENGINE TABLE SUFFIX = A
+                            RULES TABLE EFFECTIVE DATE  20050408
+                            RULES TABLE HIGHEST VERSION 0316
+                            LANG TABLE EFFECTIVE DATE   20050401
+                            LANG TABLE HIGHEST VERSION  0215
+                            BIN TABLE EFFECTIVE DATE    20050520
+                            BIN TABLE HIGHEST VERSION   4095
+                            ARDEF TABLE EFFECTIVE DATE  20050520
+                            ARDEF TABLE HIGHEST VERSION 4095
+                            TABLES EFFECTIVE AS OF   20050520
+   E3C100     0010-I
+                            THE FOLLOWING TEMPORARY OPTIONS WERE IN
+                                     EFFECT FOR THIS RUN
+
+              0006-I        RUNMODE      = TEST
+                            RERUN        = N
+              0011-I
+                            THE FOLLOWING PERMANENT OPTIONS WERE IN
+                                     EFFECT FOR THIS RUN
+
+              0006-I        CENTRBIN     = 436805
+                            CENTRCODE    = SSNH0209
+              0009-I        CENTRNAME    =
+                            jdb
+              0006-I        DATEFORMAT   = YYMMDD
+                            DATESEP      = /
+                            EXCPRPTFMT   = DUMP
+                            EXCPRPTSEQ   = FILE
+                            FEERPTFMT    = S
+                            HISTPURGE    = IN
+                            HISTRETPD    = 010
+                            ITFONTAPE    = N
+                            ITFVOLSER    = N
+                            NUMDECSEP    = .
+                            NUMTHOUSEP   = ,
+                            REPTFICHE    = N
+                            SAVERETURN   = R
+                            TIMESEP      = :
+                            TRANRPTSEQ   = FILE
+                            WRITEHEADR   = N
+                            TCPASS       = 033
+                            TCPASS       = 045
+              0012-I
+                            THE FOLLOWING OPTIONS WERE GIVEN THE
+                                SYSTEM DEFAULTS FOR THIS RUN
+
+              0006-I        TCINPRT      = 001REPORT EP-299   INCOMING INTERCHANGE                    VISANET EDIT PACKAGE                     TEST                   PAGE       2
+SYSTEM DATE 05/05/21   RELEASE  3.00                       PROCESSING LOG                                             CPD   05/05/21
+jdb                                                         CENTER 436805                                               RUN NO   001
+
+                            TCINPRT      = 002
+                            TCINPRT      = 003
+                            TCINPRT      = 004
+                            TCINPRT      = 033
+                            TCINPRT      = 040
+                            TCINPRT      = 042
+                            TCINPRT      = 043
+                            TCINPRT      = 048
+                            TCINPRT      = 050
+                            TCINPRT      = 051
+                            TCINPRT      = 052
+                            TCINPRT      = 053
+                            TCINPRT      = 055
+                            TCINPRT      = 056
+                            TCINPRT      = 058
+                            TCPASS       = 005
+                            TCPASS       = 006
+                            TCPASS       = 007
+                            TCPASS       = 008
+                            TCPASS       = 009
+                            TCPASS       = 010
+                            TCPASS       = 015
+                            TCPASS       = 016
+                            TCPASS       = 017
+                            TCPASS       = 019
+                            TCPASS       = 020
+                            TCPASS       = 025
+                            TCPASS       = 026
+                            TCPASS       = 027
+                            TCPASS       = 030
+                            TCPASS       = 031
+                            TCPASS       = 032
+                            TCPASS       = 035
+                            TCPASS       = 036
+                            TCPASS       = 037
+                            TCPASS       = 038
+                            TCPASS       = 039
+                            TCPASS       = 046
+                            TCPASS       = 057
+                            TCPASS       = 058
+                            TCPASS       = 059
+                            TCPASS       = 091
+                            TCPASS       = 092
+              0023-I        EXTENSIONS   =
+                              COL.  1-15 =
+                              COL. 16-30 =
+                              COL. 31-45 =
+                              COL. 46-60 =
+                              COL. 61-69 =
+              0006-I        INTERNAL     =
+                            RUNDATE      = 050521
+                            SPLITINCTF   = NREPORT EP-299   INCOMING INTERCHANGE                    VISANET EDIT PACKAGE                     TEST                   PAGE       3
+SYSTEM DATE 05/05/21   RELEASE  3.00                       PROCESSING LOG                                             CPD   05/05/21
+jdb                                                         CENTER 436805                                               RUN NO   001
+
+                            TABLEDATE    = 050520
+                            TRIALRUN     = N
+              0008-I        *** END OF CURRENT OPTIONS
+   E3IN       0051-I        RUN DATE 20050521 AND RUN NUMBER 001
+   E3I800     0101-I        TOTAL RETURNS FOR THIS RUN =          0
+
+JOB ENDED    05/05/21   17:15:31

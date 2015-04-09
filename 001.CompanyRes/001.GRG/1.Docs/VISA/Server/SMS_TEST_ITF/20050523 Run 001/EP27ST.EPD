@@ -1,0 +1,1133 @@
+REPORT ID:  VSS-110                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138995 SUMMARY SRE               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME              SETTLEMENT SUMMARY REPORT                         REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+
+
+                                                                      CREDIT                     DEBIT                     TOTAL
+                                             COUNT                    AMOUNT                    AMOUNT                    AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-110 REPORT ***REPORT ID:  VSS-110                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138996 VE - 406358               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000138995 SUMMARY SRE                  SETTLEMENT SUMMARY REPORT                         REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+
+
+                                                                      CREDIT                     DEBIT                     TOTAL
+                                             COUNT                    AMOUNT                    AMOUNT                    AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-110 REPORT ***REPORT ID:  VSS-120                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138995 SUMMARY SRE                INTERNATIONAL SETTLEMENT SERVICE                    PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME                INTERCHANGE VALUE REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+
+                                     CURRENCY               COUNT               CLEARING          INTERCHANGE          INTERCHANGE
+                                      TABLE                                      AMOUNT              VALUE                VALUE
+                                       DATE                                                         CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  ***  END OF VSS-120 REPORT  ***REPORT ID:  VSS-120                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138996 VE - 406358                INTERNATIONAL SETTLEMENT SERVICE                    PROC DATE:   23MAY05
+ROLLUP TO:          1000138995 SUMMARY SRE                    INTERCHANGE VALUE REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+
+                                     CURRENCY               COUNT               CLEARING          INTERCHANGE          INTERCHANGE
+                                      TABLE                                      AMOUNT              VALUE                VALUE
+                                       DATE                                                         CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  ***  END OF VSS-120 REPORT  ***REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138995 SUMMARY SRE               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME               REIMBURSEMENT FEES REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                                                               REIMBURSEMENT         REIMBURSEMENT
+                                                       COUNT              INTERCHANGE               FEE                   FEE
+                                                                             AMOUNT               CREDITS                DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-130 REPORT ***REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138996 VE - 406358               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000138995 SUMMARY SRE                   REIMBURSEMENT FEES REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                                                               REIMBURSEMENT         REIMBURSEMENT
+                                                       COUNT              INTERCHANGE               FEE                   FEE
+                                                                             AMOUNT               CREDITS                DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-130 REPORT ***REPORT ID:  VSS-140                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138995 SUMMARY SRE               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME                 VISA CHARGES REPORT                            REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-140 REPORT ***REPORT ID:  VSS-140                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138996 VE - 406358               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000138995 SUMMARY SRE                     VISA CHARGES REPORT                            REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-140 REPORT ***REPORT ID:  VSS-210                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138995 SUMMARY SRE               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME            CURRENCY CONVERSION FEES REPORT                     REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+                            ***********SETTLEMENT CURRENCY*********** *********************CLEARING CURRENCY**********************
+                                     INTERCHANGE         CONVERSION            INTERCHANGE         CONVERSION         OPT ISSUER
+                                       AMOUNT               FEE                  AMOUNT               FEE                FEE
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-210 REPORT ***REPORT ID:  VSS-210                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138996 VE - 406358               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000138995 SUMMARY SRE                CURRENCY CONVERSION FEES REPORT                     REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+                            ***********SETTLEMENT CURRENCY*********** *********************CLEARING CURRENCY**********************
+                                     INTERCHANGE         CONVERSION            INTERCHANGE         CONVERSION         OPT ISSUER
+                                       AMOUNT               FEE                  AMOUNT               FEE                FEE
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-210 REPORT ***REPORT ID:  VSS-230                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138996 VE - 406358               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000138995 SUMMARY SRE              VISA CHARGES RECONCILIATION REPORT                    REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-230 REPORT ***REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138995 SUMMARY SRE               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-900-S REPORT ***REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000138996 VE - 406358               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-900-S REPORT ***REPORT ID:  VSS-100-W                                       VISANET SETTLEMENT SERVICE                        PAGE:             1
+REPORTING FOR:      1000138995 SUMMARY SRE               INTERNATIONAL SETTLEMENT SERVICE                     REPORT DATE: 23MAY05
+                                                    WEEKLY SETTLEMENT REPORTING HIERARCHY LIST                LAST CHANGE: 31OCT04
+SETTLEMENT CURRENCY:  USD
+
+
+SETTLEMENT REPORTING ENTITY (SRE)       SRE NAME        FUNDS                                           PROCESSOR   NETWORK   TXN
+            HIERARCHY                                  TRANSFER                    CLEARING ENTITY ID      ID         ID      CURR
+
+1000138995                              SUMMARY SRE
+
+  1000138996                            VE - 406358           406358000000000000 - 406358999999999999   4368050000    ALL
+                                                                                               406358   4368050000    ALL
+
+
+                                                  *** END OF VSS-100-W REPORT ***REPORT ID:  VSS-100-W                                       VISANET SETTLEMENT SERVICE                        PAGE:             1
+REPORTING FOR:      1000138996 VE - 406358               INTERNATIONAL SETTLEMENT SERVICE                     REPORT DATE: 23MAY05
+                                                    WEEKLY SETTLEMENT REPORTING HIERARCHY LIST                LAST CHANGE: 31OCT04
+SETTLEMENT CURRENCY:  USD
+
+
+SETTLEMENT REPORTING ENTITY (SRE)       SRE NAME        FUNDS                                           PROCESSOR   NETWORK   TXN
+            HIERARCHY                                  TRANSFER                    CLEARING ENTITY ID      ID         ID      CURR
+
+1000138996                              VE - 406358           406358000000000000 - 406358999999999999   4368050000    ALL
+                                                                                               406358   4368050000    ALL
+
+
+                                                  *** END OF VSS-100-W REPORT ***REPORT ID:  VSS-110                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107809 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME              SETTLEMENT SUMMARY REPORT                         REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+
+FUNDS TRANSFER AMOUNT:
+
+
+                                                                      CREDIT                     DEBIT                     TOTAL
+                                             COUNT                    AMOUNT                    AMOUNT                    AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-110 REPORT ***REPORT ID:  VSS-110                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107810 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME              SETTLEMENT SUMMARY REPORT                         REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+
+
+                                                                      CREDIT                     DEBIT                     TOTAL
+                                             COUNT                    AMOUNT                    AMOUNT                    AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-110 REPORT ***REPORT ID:  VSS-110                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059317 JDBSMPLUSACQ              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME              SETTLEMENT SUMMARY REPORT                         REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+
+
+                                                                      CREDIT                     DEBIT                     TOTAL
+                                             COUNT                    AMOUNT                    AMOUNT                    AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-110 REPORT ***REPORT ID:  VSS-120                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107809 JOINT DEVELOPME            INTERNATIONAL SETTLEMENT SERVICE                    PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME                INTERCHANGE VALUE REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+
+                                     CURRENCY               COUNT               CLEARING          INTERCHANGE          INTERCHANGE
+                                      TABLE                                      AMOUNT              VALUE                VALUE
+                                       DATE                                                         CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  ***  END OF VSS-120 REPORT  ***REPORT ID:  VSS-120                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107810 JOINT DEVELOPME            INTERNATIONAL SETTLEMENT SERVICE                    PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME                INTERCHANGE VALUE REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+
+                                     CURRENCY               COUNT               CLEARING          INTERCHANGE          INTERCHANGE
+                                      TABLE                                      AMOUNT              VALUE                VALUE
+                                       DATE                                                         CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  ***  END OF VSS-120 REPORT  ***REPORT ID:  VSS-120                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059317 JDBSMPLUSACQ               INTERNATIONAL SETTLEMENT SERVICE                    PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME                INTERCHANGE VALUE REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+
+                                     CURRENCY               COUNT               CLEARING          INTERCHANGE          INTERCHANGE
+                                      TABLE                                      AMOUNT              VALUE                VALUE
+                                       DATE                                                         CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  ***  END OF VSS-120 REPORT  ***REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107809 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME               REIMBURSEMENT FEES REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                                                               REIMBURSEMENT         REIMBURSEMENT
+                                                       COUNT              INTERCHANGE               FEE                   FEE
+                                                                             AMOUNT               CREDITS                DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-130 REPORT ***REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107810 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME               REIMBURSEMENT FEES REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                                                               REIMBURSEMENT         REIMBURSEMENT
+                                                       COUNT              INTERCHANGE               FEE                   FEE
+                                                                             AMOUNT               CREDITS                DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-130 REPORT ***REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059317 JDBSMPLUSACQ              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME               REIMBURSEMENT FEES REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                                                               REIMBURSEMENT         REIMBURSEMENT
+                                                       COUNT              INTERCHANGE               FEE                   FEE
+                                                                             AMOUNT               CREDITS                DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-130 REPORT ***REPORT ID:  VSS-140                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107809 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME                 VISA CHARGES REPORT                            REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-140 REPORT ***REPORT ID:  VSS-140                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107810 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME                 VISA CHARGES REPORT                            REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-140 REPORT ***REPORT ID:  VSS-140                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059317 JDBSMPLUSACQ              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME                 VISA CHARGES REPORT                            REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-140 REPORT ***REPORT ID:  VSS-210                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107809 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME            CURRENCY CONVERSION FEES REPORT                     REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+                            ***********SETTLEMENT CURRENCY*********** *********************CLEARING CURRENCY**********************
+                                     INTERCHANGE         CONVERSION            INTERCHANGE         CONVERSION         OPT ISSUER
+                                       AMOUNT               FEE                  AMOUNT               FEE                FEE
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-210 REPORT ***REPORT ID:  VSS-210                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107810 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME            CURRENCY CONVERSION FEES REPORT                     REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+                            ***********SETTLEMENT CURRENCY*********** *********************CLEARING CURRENCY**********************
+                                     INTERCHANGE         CONVERSION            INTERCHANGE         CONVERSION         OPT ISSUER
+                                       AMOUNT               FEE                  AMOUNT               FEE                FEE
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-210 REPORT ***REPORT ID:  VSS-210                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059317 JDBSMPLUSACQ              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME            CURRENCY CONVERSION FEES REPORT                     REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+                            ***********SETTLEMENT CURRENCY*********** *********************CLEARING CURRENCY**********************
+                                     INTERCHANGE         CONVERSION            INTERCHANGE         CONVERSION         OPT ISSUER
+                                       AMOUNT               FEE                  AMOUNT               FEE                FEE
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-210 REPORT ***REPORT ID:  VSS-230                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107809 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME          VISA CHARGES RECONCILIATION REPORT                    REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-230 REPORT ***REPORT ID:  VSS-230                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107810 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME          VISA CHARGES RECONCILIATION REPORT                    REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-230 REPORT ***REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107809 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:  NONE
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+TOTAL OTHER TRANSACTIONS
+      NON-FINANCIAL TRANSACTIONS
+        SENT TO VISA                                            2
+        RECEIVED FROM VISA                                      2
+
+      TOTAL NON-FINANCIAL                                                                              4
+
+      TOTAL TRANSACTIONS                                                                               4                      0REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              2
+REPORTING FOR:      1000107809 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:  NONE
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+TOTAL CLEARING CURRENCY: NONE
+      NON-FINANCIAL TRANSACTIONS
+        SENT TO VISA                                            2
+        RECEIVED FROM VISA                                      2
+
+      TOTAL NON-FINANCIAL                                                                              4
+
+      TOTAL TRANSACTIONS                                                                               4                      0REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              3
+REPORTING FOR:      1000107809 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:  ALL
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+TOTAL 1000107809 JOINT DEVELOPME
+      NON-FINANCIAL TRANSACTIONS
+        SENT TO VISA                                            2
+        RECEIVED FROM VISA                                      2
+
+      TOTAL NON-FINANCIAL                                                                              4
+
+      TOTAL TRANSACTIONS                                                                               4
+
+
+                                                  *** END OF VSS-900-S REPORT ***REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107810 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-900-S REPORT ***REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059317 JDBSMPLUSACQ              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:  NONE
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+TOTAL OTHER TRANSACTIONS
+      NON-FINANCIAL TRANSACTIONS
+        SENT TO VISA                                            2
+        RECEIVED FROM VISA                                      2
+
+      TOTAL NON-FINANCIAL                                                                              4
+
+      TOTAL TRANSACTIONS                                                                               4                      0REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              2
+REPORTING FOR:      9000059317 JDBSMPLUSACQ              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:  NONE
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+TOTAL CLEARING CURRENCY: NONE
+      NON-FINANCIAL TRANSACTIONS
+        SENT TO VISA                                            2
+        RECEIVED FROM VISA                                      2
+
+      TOTAL NON-FINANCIAL                                                                              4
+
+      TOTAL TRANSACTIONS                                                                               4                      0REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              3
+REPORTING FOR:      9000059317 JDBSMPLUSACQ              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:  ALL
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+TOTAL 9000059317 JDBSMPLUSACQ
+      NON-FINANCIAL TRANSACTIONS
+        SENT TO VISA                                            2
+        RECEIVED FROM VISA                                      2
+
+      TOTAL NON-FINANCIAL                                                                              4
+
+      TOTAL TRANSACTIONS                                                                               4
+
+
+                                                  *** END OF VSS-900-S REPORT ***REPORT ID:  VSS-100-W                                       VISANET SETTLEMENT SERVICE                        PAGE:             1
+REPORTING FOR:      1000107809 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     REPORT DATE: 23MAY05
+                                                    WEEKLY SETTLEMENT REPORTING HIERARCHY LIST                LAST CHANGE: 08DEC02
+SETTLEMENT CURRENCY:  USD
+
+
+SETTLEMENT REPORTING ENTITY (SRE)       SRE NAME        FUNDS                                           PROCESSOR   NETWORK   TXN
+            HIERARCHY                                  TRANSFER                    CLEARING ENTITY ID      ID         ID      CURR
+
+1000107809                              JOINT DEVELOPME  YES
+
+  1000107810                            JOINT DEVELOPME       436805000000000000 - 436805999999999999   4368050000    ALL
+                                                                                               436805   4368050000    ALL
+
+  1000107811                            JOINT DEVELOPME       436806000000000000 - 436806999999999999   4368050000    ALL
+                                                                                               436806   4368050000    ALL
+
+  1000138995                            SUMMARY SRE
+
+    1000138996                          VE - 406358           406358000000000000 - 406358999999999999   4368050000    ALL
+                                                                                               406358   4368050000    ALL
+
+  9000059317                            JDBSMPLUSACQ
+
+    9000059318                          JDBPLUS ACQ                                            451257   4368050000    ALL
+
+    9000059319                          JDBPLUS ACQ                                            451257   4512570004    002
+
+    9000059320                          JDBPLUS ACQ                                            451257   4512570004    004
+
+
+                                                  *** END OF VSS-100-W REPORT ***REPORT ID:  VSS-100-W                                       VISANET SETTLEMENT SERVICE                        PAGE:             1
+REPORTING FOR:      1000107810 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     REPORT DATE: 23MAY05
+                                                    WEEKLY SETTLEMENT REPORTING HIERARCHY LIST                LAST CHANGE: 08DEC02
+SETTLEMENT CURRENCY:  USD
+
+
+SETTLEMENT REPORTING ENTITY (SRE)       SRE NAME        FUNDS                                           PROCESSOR   NETWORK   TXN
+            HIERARCHY                                  TRANSFER                    CLEARING ENTITY ID      ID         ID      CURR
+
+1000107810                              JOINT DEVELOPME       436805000000000000 - 436805999999999999   4368050000    ALL
+                                                                                               436805   4368050000    ALL
+
+
+                                                  *** END OF VSS-100-W REPORT ***REPORT ID:  VSS-100-W                                       VISANET SETTLEMENT SERVICE                        PAGE:             1
+REPORTING FOR:      9000059317 JDBSMPLUSACQ              INTERNATIONAL SETTLEMENT SERVICE                     REPORT DATE: 23MAY05
+                                                    WEEKLY SETTLEMENT REPORTING HIERARCHY LIST                LAST CHANGE: 27MAR05
+SETTLEMENT CURRENCY:  USD
+
+
+SETTLEMENT REPORTING ENTITY (SRE)       SRE NAME        FUNDS                                           PROCESSOR   NETWORK   TXN
+            HIERARCHY                                  TRANSFER                    CLEARING ENTITY ID      ID         ID      CURR
+
+9000059317                              JDBSMPLUSACQ
+
+  9000059318                            JDBPLUS ACQ                                            451257   4368050000    ALL
+
+  9000059319                            JDBPLUS ACQ                                            451257   4512570004    002
+
+  9000059320                            JDBPLUS ACQ                                            451257   4512570004    004
+
+
+                                                  *** END OF VSS-100-W REPORT ***REPORT ID:  VSS-110                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107811 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME              SETTLEMENT SUMMARY REPORT                         REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+
+
+                                                                      CREDIT                     DEBIT                     TOTAL
+                                             COUNT                    AMOUNT                    AMOUNT                    AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-110 REPORT ***REPORT ID:  VSS-120                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107811 JOINT DEVELOPME            INTERNATIONAL SETTLEMENT SERVICE                    PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME                INTERCHANGE VALUE REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+
+                                     CURRENCY               COUNT               CLEARING          INTERCHANGE          INTERCHANGE
+                                      TABLE                                      AMOUNT              VALUE                VALUE
+                                       DATE                                                         CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  ***  END OF VSS-120 REPORT  ***REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107811 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME               REIMBURSEMENT FEES REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                                                               REIMBURSEMENT         REIMBURSEMENT
+                                                       COUNT              INTERCHANGE               FEE                   FEE
+                                                                             AMOUNT               CREDITS                DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-130 REPORT ***REPORT ID:  VSS-140                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107811 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME                 VISA CHARGES REPORT                            REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-140 REPORT ***REPORT ID:  VSS-210                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107811 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME            CURRENCY CONVERSION FEES REPORT                     REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+                            ***********SETTLEMENT CURRENCY*********** *********************CLEARING CURRENCY**********************
+                                     INTERCHANGE         CONVERSION            INTERCHANGE         CONVERSION         OPT ISSUER
+                                       AMOUNT               FEE                  AMOUNT               FEE                FEE
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-210 REPORT ***REPORT ID:  VSS-230                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107811 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          1000107809 JOINT DEVELOPME          VISA CHARGES RECONCILIATION REPORT                    REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-230 REPORT ***REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      1000107811 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-900-S REPORT ***REPORT ID:  VSS-100-W                                       VISANET SETTLEMENT SERVICE                        PAGE:             1
+REPORTING FOR:      1000107811 JOINT DEVELOPME           INTERNATIONAL SETTLEMENT SERVICE                     REPORT DATE: 23MAY05
+                                                    WEEKLY SETTLEMENT REPORTING HIERARCHY LIST                LAST CHANGE: 08DEC02
+SETTLEMENT CURRENCY:  USD
+
+
+SETTLEMENT REPORTING ENTITY (SRE)       SRE NAME        FUNDS                                           PROCESSOR   NETWORK   TXN
+            HIERARCHY                                  TRANSFER                    CLEARING ENTITY ID      ID         ID      CURR
+
+1000107811                              JOINT DEVELOPME       436806000000000000 - 436806999999999999   4368050000    ALL
+                                                                                               436806   4368050000    ALL
+
+
+                                                  *** END OF VSS-100-W REPORT ***REPORT ID:  VSS-110                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059318 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                 SETTLEMENT SUMMARY REPORT                         REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+
+
+                                                                      CREDIT                     DEBIT                     TOTAL
+                                             COUNT                    AMOUNT                    AMOUNT                    AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-110 REPORT ***REPORT ID:  VSS-110                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059319 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                 SETTLEMENT SUMMARY REPORT                         REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+
+
+                                                                      CREDIT                     DEBIT                     TOTAL
+                                             COUNT                    AMOUNT                    AMOUNT                    AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-110 REPORT ***REPORT ID:  VSS-110                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059320 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                 SETTLEMENT SUMMARY REPORT                         REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+
+
+                                                                      CREDIT                     DEBIT                     TOTAL
+                                             COUNT                    AMOUNT                    AMOUNT                    AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-110 REPORT ***REPORT ID:  VSS-120                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059318 JDBPLUS ACQ                INTERNATIONAL SETTLEMENT SERVICE                    PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                   INTERCHANGE VALUE REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+
+                                     CURRENCY               COUNT               CLEARING          INTERCHANGE          INTERCHANGE
+                                      TABLE                                      AMOUNT              VALUE                VALUE
+                                       DATE                                                         CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  ***  END OF VSS-120 REPORT  ***REPORT ID:  VSS-120                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059319 JDBPLUS ACQ                INTERNATIONAL SETTLEMENT SERVICE                    PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                   INTERCHANGE VALUE REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+
+                                     CURRENCY               COUNT               CLEARING          INTERCHANGE          INTERCHANGE
+                                      TABLE                                      AMOUNT              VALUE                VALUE
+                                       DATE                                                         CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  ***  END OF VSS-120 REPORT  ***REPORT ID:  VSS-120                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059320 JDBPLUS ACQ                INTERNATIONAL SETTLEMENT SERVICE                    PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                   INTERCHANGE VALUE REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+
+                                     CURRENCY               COUNT               CLEARING          INTERCHANGE          INTERCHANGE
+                                      TABLE                                      AMOUNT              VALUE                VALUE
+                                       DATE                                                         CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  ***  END OF VSS-120 REPORT  ***REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059318 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                  REIMBURSEMENT FEES REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                                                               REIMBURSEMENT         REIMBURSEMENT
+                                                       COUNT              INTERCHANGE               FEE                   FEE
+                                                                             AMOUNT               CREDITS                DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-130 REPORT ***REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059319 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                  REIMBURSEMENT FEES REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                                                               REIMBURSEMENT         REIMBURSEMENT
+                                                       COUNT              INTERCHANGE               FEE                   FEE
+                                                                             AMOUNT               CREDITS                DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-130 REPORT ***REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059320 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                  REIMBURSEMENT FEES REPORT                        REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                                                               REIMBURSEMENT         REIMBURSEMENT
+                                                       COUNT              INTERCHANGE               FEE                   FEE
+                                                                             AMOUNT               CREDITS                DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-130 REPORT ***REPORT ID:  VSS-140                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059318 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                    VISA CHARGES REPORT                            REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-140 REPORT ***REPORT ID:  VSS-140                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059319 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                    VISA CHARGES REPORT                            REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-140 REPORT ***REPORT ID:  VSS-140                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059320 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ                    VISA CHARGES REPORT                            REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+                                                            COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES
+                                                                               AMOUNT              CREDITS               DEBITS
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-140 REPORT ***REPORT ID:  VSS-210                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059318 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ               CURRENCY CONVERSION FEES REPORT                     REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+                            ***********SETTLEMENT CURRENCY*********** *********************CLEARING CURRENCY**********************
+                                     INTERCHANGE         CONVERSION            INTERCHANGE         CONVERSION         OPT ISSUER
+                                       AMOUNT               FEE                  AMOUNT               FEE                FEE
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-210 REPORT ***REPORT ID:  VSS-210                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059319 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ               CURRENCY CONVERSION FEES REPORT                     REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+                            ***********SETTLEMENT CURRENCY*********** *********************CLEARING CURRENCY**********************
+                                     INTERCHANGE         CONVERSION            INTERCHANGE         CONVERSION         OPT ISSUER
+                                       AMOUNT               FEE                  AMOUNT               FEE                FEE
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-210 REPORT ***REPORT ID:  VSS-210                                         VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059320 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+ROLLUP TO:          9000059317 JDBSMPLUSACQ               CURRENCY CONVERSION FEES REPORT                     REPORT DATE: 23MAY05
+FUNDS XFER ENTITY:  1000107809 JOINT DEVELOPME
+
+SETTLEMENT CURRENCY:  USD
+CLEARING CURRENCY:
+
+                            ***********SETTLEMENT CURRENCY*********** *********************CLEARING CURRENCY**********************
+                                     INTERCHANGE         CONVERSION            INTERCHANGE         CONVERSION         OPT ISSUER
+                                       AMOUNT               FEE                  AMOUNT               FEE                FEE
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                   *** END OF VSS-210 REPORT ***REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059318 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-900-S REPORT ***REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059319 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+                                                  *** NO DATA FOR THIS REPORT ***
+
+
+                                                  *** END OF VSS-900-S REPORT ***REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              1
+REPORTING FOR:      9000059320 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:  NONE
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+TOTAL OTHER TRANSACTIONS
+      NON-FINANCIAL TRANSACTIONS
+        SENT TO VISA                                            2
+        RECEIVED FROM VISA                                      2
+
+      TOTAL NON-FINANCIAL                                                                              4
+
+      TOTAL TRANSACTIONS                                                                               4                      0REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              2
+REPORTING FOR:      9000059320 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:  NONE
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+TOTAL CLEARING CURRENCY: NONE
+      NON-FINANCIAL TRANSACTIONS
+        SENT TO VISA                                            2
+        RECEIVED FROM VISA                                      2
+
+      TOTAL NON-FINANCIAL                                                                              4
+
+      TOTAL TRANSACTIONS                                                                               4                      0REPORT ID:  VSS-900-S                                       VISANET SETTLEMENT SERVICE                        PAGE:              3
+REPORTING FOR:      9000059320 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   23MAY05
+                                                          SUMMARY RECONCILIATION REPORT                       REPORT DATE: 23MAY05
+
+CLEARING CURRENCY:  ALL
+
+                                                            COUNT              CLEARING            TOTAL                  TOTAL
+                                                                                AMOUNT             COUNT                 CLEARING
+                                                                                                                          AMOUNT
+
+
+TOTAL 9000059320 JDBPLUS ACQ
+      NON-FINANCIAL TRANSACTIONS
+        SENT TO VISA                                            2
+        RECEIVED FROM VISA                                      2
+
+      TOTAL NON-FINANCIAL                                                                              4
+
+      TOTAL TRANSACTIONS                                                                               4
+
+
+                                                  *** END OF VSS-900-S REPORT ***REPORT ID:  VSS-100-W                                       VISANET SETTLEMENT SERVICE                        PAGE:             1
+REPORTING FOR:      9000059318 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     REPORT DATE: 23MAY05
+                                                    WEEKLY SETTLEMENT REPORTING HIERARCHY LIST                LAST CHANGE: 27MAR05
+SETTLEMENT CURRENCY:  USD
+
+
+SETTLEMENT REPORTING ENTITY (SRE)       SRE NAME        FUNDS                                           PROCESSOR   NETWORK   TXN
+            HIERARCHY                                  TRANSFER                    CLEARING ENTITY ID      ID         ID      CURR
+
+9000059318                              JDBPLUS ACQ                                            451257   4368050000    ALL
+
+
+                                                  *** END OF VSS-100-W REPORT ***REPORT ID:  VSS-100-W                                       VISANET SETTLEMENT SERVICE                        PAGE:             1
+REPORTING FOR:      9000059319 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     REPORT DATE: 23MAY05
+                                                    WEEKLY SETTLEMENT REPORTING HIERARCHY LIST                LAST CHANGE: 27MAR05
+SETTLEMENT CURRENCY:  USD
+
+
+SETTLEMENT REPORTING ENTITY (SRE)       SRE NAME        FUNDS                                           PROCESSOR   NETWORK   TXN
+            HIERARCHY                                  TRANSFER                    CLEARING ENTITY ID      ID         ID      CURR
+
+9000059319                              JDBPLUS ACQ                                            451257   4512570004    002
+
+
+                                                  *** END OF VSS-100-W REPORT ***REPORT ID:  VSS-100-W                                       VISANET SETTLEMENT SERVICE                        PAGE:             1
+REPORTING FOR:      9000059320 JDBPLUS ACQ               INTERNATIONAL SETTLEMENT SERVICE                     REPORT DATE: 23MAY05
+                                                    WEEKLY SETTLEMENT REPORTING HIERARCHY LIST                LAST CHANGE: 27MAR05
+SETTLEMENT CURRENCY:  USD
+
+
+SETTLEMENT REPORTING ENTITY (SRE)       SRE NAME        FUNDS                                           PROCESSOR   NETWORK   TXN
+            HIERARCHY                                  TRANSFER                    CLEARING ENTITY ID      ID         ID      CURR
+
+9000059320                              JDBPLUS ACQ                                            451257   4512570004    004
+
+
+                                                  *** END OF VSS-100-W REPORT ***

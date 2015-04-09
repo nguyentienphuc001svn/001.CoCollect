@@ -1,0 +1,20 @@
+REPORT EP-230   INCOMING INTERCHANGE                     VISANET EDIT PACKAGE                    TEST                   PAGE       1
+SYSTEM DATE 05/05/21   RELEASE  3.00          INTERCHANGE TRANSACTION FILE DISTRIBUTION                               CPD   05/05/21
+jdb                                                         CENTER 436805                                               RUN NO   001
+
+                                                                     COUNT                   AMOUNT
+
+                                 MEMBER TRANSACTIONS
+                                   SUBFILE   1                         221                     0.00
+
+                                   SUBFILE TOTAL                       221                     0.00
+
+                                   RETURN ITEMS                          0
+                                   TRANSACTIONS NOT PASSED           1,420
+
+                                 VISANET TRANSACTIONS
+                                   TC33 EXTRACT FILE UPDAT               0
+                                   TABLE UPDATES                         0
+                                   CURRENCY UPDATES                      0
+
+                                 TOTAL                               1,641                     0.00

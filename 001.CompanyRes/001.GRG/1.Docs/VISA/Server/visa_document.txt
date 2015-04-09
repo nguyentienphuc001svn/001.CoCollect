@@ -1,0 +1,124 @@
+General Information
+	V.I.P. System Overview ( Doc ID 0851-04 )
+	V.I.P. System Reports ( Doc ID 0852-04 )
+	V.I.P. System Services, Volume 1 ( Doc ID 0853A-04 )
+	V.I.P. System Services, Volume 2 ( Doc ID 0853B-04 )
+
+BASE I
+	V.I.P. System BASE I Processing Specifications ( Doc ID 0847-04 )
+	V.I.P. System BASE I Technical Specifications, Volume 1 ( Doc ID 0844A-05 )
+	V.I.P. System BASE I Technical Specifications, Volume 2 ( Doc ID 0844B-05 )
+
+Interlink
+	V.I.P. System SMS Interlink Processing Specifications
+	V.I.P. System SMS Interlink Technical Specifications ( Doc ID 0866-03 )
+
+SMS ATM
+	V.I.P. System International SMS ATM Processing Specifications ( Doc ID 0839-04 )
+	V.I.P. System SMS ATM Technical Specifications, Volume 1 ( Doc ID 0868A-03 )
+	V.I.P. System SMS ATM Technical Specifications, Volume 2 ( Doc ID 0868B-03 )
+
+SMS POS
+	V.I.P. System International SMS POS (Visa & Visa Electron) Processing Specifications ( Doc ID 0835-04 )
+	V.I.P. System SMS POS (Visa & Visa Electron) Technical Specifications, Volume 1 ( Doc ID 0869A-03 )
+	V.I.P. System SMS POS (Visa & Visa Electron) Technical Specifications, Volume 2 ( Doc ID 0869B-03 )
+
+Miscellaneous Systems and Services
+	Visa Global ATM Planning Guide
+	Address Verification Service (AVS) User¡¯s Guide
+	Card Verification Value (CVV) Member Technical Guide
+	Cardholder Verification Value Reporting User¡¯s Guide
+	Cash-Back Service Description ( Doc ID 40080-01 )
+	Visa Information System User¡¯s Guide
+	VisaNet Settlement Service (VSS) User¡¯s Guide, Volume 1, Specifications
+	VisaNet Settlement Service (VSS) User¡¯s Guide, Volume 2, Reports
+	Visa Test System - Version 3 User¡¯s Guide
+	VTS2000 User¡¯s Guide
+
+VisaNet Copy Request and Fulfillment Service (VCRFS)
+	VCRFS Fax Gateway User¡¯s Guide
+	VCRFS Processing Guide
+	VisaNet Image Gateway Image Interface Technical Specifications
+	VisaNet Image Gateway User¡¯s Guide
+
+VAP Release 11 Documentation
+	VAP Release 11 Interface Specifications: BASE II and Other File Processing
+	VAP Release 11 Interface Specifications: V.I.P. Processing
+	VAP Release 11 Maintenance, Messages, and Troubleshooting Guide
+	VAP Release 11 Operator¡¯s Guide
+
+VAP Release 10.23 Documentation
+	VAP Computer-Based Training User¡¯s Guide
+	VAP Interface Specifications: BASE II and Other File Processing
+	VAP Interface Specifications: V.I.P. Processing
+	VAP Messages and Troubleshooting
+	VAP Operator¡¯s Guide
+	VAP Software Library
+	VAP Systems Guide
+
+Visa Smart Debit/Smart Credit (VSDC) Service
+	Visa Smart Debit and Visa Smart Credit Service Description
+	Visa Smart Debit and Credit Planning Guide
+	Visa Smart Debit and Credit Member Implementation Guide for Issuers
+	Visa Smart Debit and Credit Member Implementation Guide for Acquirers
+	Visa Smart Debit/Visa Smart Credit System Technical Manual
+	Visa Integrated Circuit Card Specifications 3-volume
+	
+Visa Image Exchange Workstation (VIEW)
+	Visa Image Exchange Workstation (VIEW) Administrator¡¯s Guide
+	Visa Image Exchange Workstation (VIEW) Installation Guide
+	Visa Image Exchange Workstation (VIEW) User¡¯s Guide
+	Visa Image Exchange Workstation (VIEW) OnLine Thick Client User¡¯s Guide
+	Visa Image Exchange Workstation (VIEW) OnLine Thick Client Member Implementation Guide
+	Visa Image Exchange Workstation (VIEW) OnLine Thin Client User¡¯s Guide
+	Visa Image Exchange Workstation (VIEW) OnLine Thin Client Member Implementation Guide
+
+Security
+	Introduction to Cryptography and PIN Security
+	Payment Technology Standards Manual
+	PIN Security Program: Auditor¡¯s Guide
+	PIN Security Requirements
+
+Risk Management Services
+	Card Recovery Bulletin Service User¡¯s Guide
+	Fraud Reporting System User¡¯s Manual
+	Issuer¡¯s Clearinghouse Service User¡¯s Guide
+	National Merchant Alert Service User¡¯s Guide
+	Risk Identification Service User¡¯s Manual
+	Risk Management Process Guide
+	Visa Issuer Fraud Detection (VIFD) Service Workstation User¡¯s Guide
+
+POS Check Service
+	V.I.P. System Services, Volume 2
+	V.I.P. System SMS POS (Visa & Visa Electron) Technical Specifications
+	VisaNet Settlement Service (VSS) User¡¯s Guide, Volume 2, Reports
+
+BackOffice Adjustment System (BOAS) OnLine
+	BOAS OnLine Conversion Guide¡ªLegacy Members
+	BOAS OnLine Member System Administrator¡¯s Guide
+	BOAS OnLine User¡¯s Guide
+
+BackOffice Adjustment System (BOAS)¡ªDOS Version
+	BOAS Administration and Technical Guide
+	Using BOAS With the BASE II System
+	Using BOAS With the Single Message System
+
+Operating Regulations
+	Visa International Operating Regulations
+	Volume I¡ªGeneral Rules
+	Volume II¡ªDispute Resolution Rules
+	Volume IV¡ªInterlink Program Operating Regulations
+	Volume V¡ªVisa Cash Program Operating Regulations
+	Visa Regional Operating Regulations¡ªAsia-Pacific (AP)
+	Visa Regional Operating Regulations¡ªCanada (CAN)
+	Visa Regional Operating Regulations¡ªCentral and Eastern Europe, Middle East, and Africa (CEMEA)
+	Visa Regional Operating Regulations¡ªEuropean Union (EU)
+	Visa Regional Operating Regulations¡ªLatin America and Caribbean (LAC)
+
+Other Documents
+	Address Verification Service Business Context
+	Address Verification Service User¡¯s Guide
+	CPS/ATM for BASE I and BASE II Members Member Implementation Guide
+	POS Check Service Planning Guide
+	The Road to Chip: An Employee Guide to Visa Smart Card Development
+	Visa Horizon Brochure and Fact Sheets

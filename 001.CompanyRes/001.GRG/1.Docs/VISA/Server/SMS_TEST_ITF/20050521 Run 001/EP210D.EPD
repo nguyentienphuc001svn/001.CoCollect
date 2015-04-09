@@ -1,0 +1,14 @@
+REPORT EP-210D  INCOMING INTERCHANGE                     VISANET EDIT PACKAGE                    TEST                   PAGE       1
+SYSTEM DATE 05/05/21   RELEASE  3.00               INCOMING INTERCHANGE CPD SUMMARY                                   CPD   05/05/21
+jdb                                                         CENTER 436805                                               RUN NO   001
+
+BASE II FILE ID: 436805020050521A0537OCE        FILE:   1 BATCH:       1 TO       2
+
+                                                               CURRENCY CODE
+                                                              / SETTLEMENT                AMOUNT            COUNT
+                              NON-FINANCIAL TOTALS
+                               MEMBER SETTLEMENT DATA (46)                                                    221
+                               VIC SETTLEMENT REPORTS (47)                                                  1,420
+                              TOTAL NON-FINANCIAL                                           0.00            1,641
+
+CPD TOTALS               TRANSACTIONS       1,641  TCRS         1,720  GROSS AMOUNT                            0.00
