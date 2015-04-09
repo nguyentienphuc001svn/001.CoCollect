@@ -1,0 +1,40 @@
+
+
+You can download it here. 
+
+http://www.jcontrol.org/download/rxtx_en... 
+
+Zipped file contains the following: 
+
+The zip file contains three files: 
+
+1) RXTXcomm.jar 
+2) rxtxParallel.dll 
+3) rxtxSerial.dll 
+
+The files should be placed (in that particular order) in: 
+
+1) JAVA_HOME/lib/ext/RXTXcomm.jar 
+2) JAVA_HOME/bin/rxtxParallel.dll 
+3) JAVA_HOME/bin/rxtxSerial.dll 
+
+The package of all the classes is: gnu.io, so instead of (typically) this: 
+
+import javax.comm.CommPortIdentifier; 
+import javax.comm.PortInUseException; 
+import javax.comm.SerialPort; 
+import javax.comm.UnsupportedCommOperationExcep... 
+
+You should change the imports to this: 
+
+import gnu.io.CommPortIdentifier; 
+import gnu.io.PortInUseException; 
+import gnu.io.SerialPort; 
+import gnu.io.UnsupportedCommOperationException... 
+
+Note that the rxtx package does not need a properties file installed 
+in the JAVA_HOME/lib directory. 
+
+Regards, 
+
+http://answers.yahoo.com/question/index?qid=20090310021623AATOI2y
