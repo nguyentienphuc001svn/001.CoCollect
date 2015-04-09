@@ -1,0 +1,11 @@
+.200: Laptop
+.201: Saigonbank
+.202: DAIA
+.240: Laptop VMWare
+
+empp:admin/000000 or admin/123456
+
+oracle/oracle
+feel/feel
+
+

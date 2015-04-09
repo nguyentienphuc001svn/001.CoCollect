@@ -1,0 +1,10 @@
+
+
+
+http://www.tayloredmktg.com/rgb/
+http://api.itextpdf.com/itext/com/itextpdf/text/Paragraph.html#setSpacingBefore(float)
+http://api.itextpdf.com/itext/com/itextpdf/text/Element.html
+http://api.itextpdf.com/itext/com/itextpdf/text/pdf/draw/LineSeparator.html
+http://api.itextpdf.com/itext/com/itextpdf/text/Rectangle.html
+http://api.itextpdf.com/itext/com/itextpdf/text/Font.html
+http://api.itextpdf.com/itext/com/itextpdf/text/BaseColor.html

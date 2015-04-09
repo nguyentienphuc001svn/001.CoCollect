@@ -1,0 +1,483 @@
+
+阮进福G0600075 Online
+"龚明辉" Gong Min Hui
+511408 20130317
+526981 20130415
+574318 20140722   
+
+VN:
+SVN kevin/Kevin120
+CN:
+Email account : kevin.nguyen@grgbanking.com
+OA
+VPN grg20130528 / grg2014
+SVN Info in Email Sam
+TD
+QQ number : 486805773 /
+
+China ISD SVN FPT: Email
+http://10.1.3.251/svn/FEEL Switch3.1/PR2/Project/PA_DSS认证
+
+//-------------------------------------------------------------------------------------------------------------------------------
+Thanks and Best Regards,
+Nguyen Tien Phuc
+Software Engineer || International Software Division
+GRG Banking Equipment (HK) Co., Ltd 
+Unit 10B, 25th Floor, Cable TV Tower, 9 Hoi Shing Road, Tsuen Wan, N.T., Hong Kong 
+Vietnam Office: 436B/22 Ba Thang Hai St., Ward12, Dist. 10, HCMC 
+Email: kevin.nguyen@grgbanking.com Website: www.grgbanking.com 
+
+
+1. Vietnam - MHB
+1.1 
++ ATM Idle Status Case
+Patch Name: FEELView_2.6_MHB_N1.0_sp001 --- Delivery Date: 9 Jun 2013 
+1.2
++ The status code is swiching from 9 to -7 and vice versa.
+Patch Name: FEELView_2.6_MHB_N1.0_sp002 --- Delivery Date: 8 July 2013
+1.3
++ Matrix Display Status for Note Shortage and Out of Notes
++ Optimize for the status icon to display faster in the Matrix page
++ The Matrix Display costs too much RAM in running
+Patch Name: FEELView_2.6_MHB_N1.0_sp003 --- Delivery Date: 12 July 2013
+1.4 Upgrade the Management Console from 2.6 to 3.1 version
+Patch Name: FEELView_2.6_MHB_N1.0_sp004 --- Delivery Date: 01 Nov 2013
+Patch Name: FEELView_2.6_MHB_N1.0_sp005 --- Delivery Date: 20 Nov 2013
+Patch Name: FEELView_2.6_MHB_N1.0_sp006 --- Delivery Date: 25 Nov 2013
+Patch Name: FEELView_2.6_MHB_N1.0_sp007 --- Delivery Date: 02 Dec 2013
+Patch Name: FEELView_2.6_MHB_N1.0_sp008 --- Delivery Date: 06 Dec 2013
+
+
+2. Vietnam - SGB
+2.1 
++ Notification SMS for Cash Shortage and Empty Cash ATMs
++ Enhance to show the number of cash remain for Cash Shortage
++ Enhance so that every atm has its own specific money amount to sms notify
+Patch Name: FEELView_3.1_SGB_N1.0_sp001 --- Delivery Date: 02 Oct 2013
+
+
+3. Myanmar - MPU 
+3.1 POS Settlement
+Develop, code and test for the POS Settlement in the Management Console
+Patch Name: FEELView_3.1_MPU_N1.0_sp001 --- Delivery Date: 
+
+
+4. Myanmar - CB Bank 
+1.1 The Card Information Issue
++ The page cannot show the information in the case all
++ Code the export function to export excel and PDF file
+Patch Name: FEELView_3.1_CB_N1.0_sp001 --- Delivery Date: 08 July 2013 
+
+
+5. Laos - JDB
+5.1 Migrate the Console into the 64 bit environment
+5.2 Test for the Visa Echo Test
+
+//-----------------------------------------------
+Vietnam - MHB - Upgrade to 3.1 Version 
+1.1 Fix the issue about device status report, that cause the ViewServer usually hang - (Finished)
+1.2 Modify the VISA Report as MHB requirement - (Finished)
+1.3 Enhance the password from Console to DB to complex case - (Ongoing-80%)
+1.4 Do the SMS Server - (Ongoing-80%)
+
+
+Vietnam - Technical Support Issues base on Web Console 
+2.1 SGB – Continue to monitoring and release patch for the issue about Cash Load - (Finished)
+2.2 SGB - The issue that some info display twice on cash box page - (Ongoing-10%)
+
+//-----------------------------------------------------
+Vietnam - MHB - Upgrade to 3.1 Version 
+1.1 Do the SMS Server - (Finished)
+1.2 Enhance the password from Console to DB to complex case - (Ongoing-80%)
+1.3 Enhance the Console user password to complex case - (Ongoing-50%)
+1.4 Enhance the real time transaction monitoring to limit staffs to see transactions within their branch only - (Finished)
+1.5 Enhance the User list information to list users based on branch and the role of admin user - (Finished) 
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 Build the FEEL View Plus environment - (Finished)
+2.2 Do the Data Migration for FEEL View Plus - (Finished) 
+
+Vietnam - Technical Support Issues base on Web Console 
+3.1 SGB - The issue that some info display twice on cash box page - (Ongoing-10%)
+
+//-----------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 Enhance the password from Console to DB to complex case
+1.2 Enhance the Console user password to complex case
+1.3 Terminal information input text field length need to extended
+1.4 Create view tables to support MHB to do their own SMS counting report
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 Test the FEEL View Plus ATM Agent working stability status in different ATM machines
+
+Vietnam - SGB - Web Console Technical Support 
+3.1 The issue that some info display twice on cash box page
+
+//-----------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 Terminal information input text field length need to extended - (Finished)
+1.2 Create view tables to support MHB to do their own SMS counting report - (Finished)
+1.3 ViewServer cannot detect offline terminals - (Finished)
+1.4 Cannot View, Edit, and Delete Card BIN - (Finished) 
+1.5 Enhance the password from Console to DB to complex case - (Ongoing-80%)
+1.6 Enhance the Console user password to complex case - (Ongoing-50%)
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 Test the FEEL View Plus ATM Agent working stability status in different ATM machines - (Ongoing-30%)
+
+Vietnam - SGB - Web Console Technical Support 
+3.1 The issue that some info display twice on cash box page - (Finished)
+
+//---5-1-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 Modify the add terminal function to contain data as MHB request
+1.2 Show the number of capture cards and deposited envelops in an ATM 
+1.3 Enhance the password from Console to DB to complex case
+1.4 Enhance the Console user password to complex case
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 Test the FEEL View Plus ATM Agent working stability status in different ATM machines
+
+Project Issue Management Procedure
+3.1 Know about the procedure
+3.2 Start go procedure by TD
+3.2.1 Register new Project Request and follow up by procedure and finally related patch to customer(TD)
+3.2.2 Register new bug request from internal team 
+3.2.3 Register new change request from customer side, this is sub item included into the patch of Item 1
+3.2.4 Record daily summary report
+
+//---5-2-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 Modify the add terminal function to contain data as MHB request - (Finished)
+1.2 Justify the Maintenance SMS to delay it for 5 minutes as MHB request - (Finished)
+1.3 Remove the loading control that delays page showing speed - (Finished)
+1.4 Separate the maintenance mode into two types, config to send sms for both. It makes to decrease total of sent sms - (Finished) 
+1.5 Show the number of capture cards and deposited envelops in an ATM - (Ongoing-50%)
+1.6 Fixed issue that the ATM 018000001 does not send Error SMS - (Finished) 
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 Test the FEEL View Plus ATM Agent working stability status in different ATM machines - (Finished)
+
+Project Issue Management Procedure
+3.1 Know about the procedure
+3.2 Start go procedure by TD
+3.2.1 Register new Project Request and follow up by procedure and finally related patch to customer(TD)
+3.2.2 Register new bug request from internal team 
+3.2.3 Register new change request from customer side, this is sub item included into the patch of Item 1
+3.2.4 Record daily summary report
+
+//---6-1-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 Add new function to allow start and stop Switch on the Console
+1.2 Show the number of capture cards and deposited envelops in an ATM
+1.3 Enhance the password from Console to DB to complex case
+1.4 Enhance the Console user password to complex case
+1.5 Check on user and role relationship 
+
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 Check issues on testing with real machine
+
+//---6-2-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 Add new function to allow start and stop Switch on the Console - (Finished)
+1.2 Show the number of capture cards and deposited envelops in an ATM - (Finished)
+1.3 Visa BOAS Show Withdraw Tranx with Unsuccessful Reversal Txn - (Finished)
+1.4 Enhance the Console user password to complex case - (Finished)
+1.5 Check on user and role relationship - (Finished)
+1.6 In the Transaction Monitoring, show the transaction with response code 91 - (Finished)
+1.7 Visa BOAS Wrong Display in Currency in Sett Report 110 - (Ongoing-50%)
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 Check issues on testing with real machine - (Finished)
+
+//---7-1-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 Visa BOAS Wrong Display in Currency in Sett Report 110
+1.2 Change on sending SMS Rule at Night
+1.3 Enhance the password from Console to DB to complex case
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 Write the guideline for the FEEL View Plus localize to DAB
+2.2 Prepare to follow to the upgrade project plan
+
+//---7-2-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 Visa BOAS Wrong Display in Currency in Sett Report 110 - (Finished)
+1.2 Change on sending SMS Rule at Night - (Finished)
+1.3 Enhance the password from Console to DB to complex case - (Finished)
+1.4 ECTK Load on available Card on Card Information - (Finished)
+1.5 ECTK Cannot Approve the Card in the Application Form - (Finished)
+1.6 ECTK Cannot Confirm Making Card - (Finished)
+1.7 ECTK Card Issue Process, Cannot match the Card Number to the Card Type - (Finished)
+
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 Write the UI guideline for the FEEL View Plus localize to DAB - (Ongoing-50%) 
+2.2 Prepare to follow to the upgrade project plan - (Finished)
+
+//---8-1-------------------------------------------------
+Vietnam - MHB & SGB - Web Console Technical Support
+
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 Write the UI guideline for the FEEL View Plus localize to DAB - (Ongoing-50%)
+2.2 A007 - Review FEEL View Plus Interface
+2.3 A008 - Improve test cases for Web Console
+2.4 A009 - Improve test cases for FEEL View Plus Platform   
+
+//---8-2-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 MHB Show the Expired Date on the Account Edit and View Page - (Finished)
+1.2 MHB Allow expired account to renew password - (Finished)
+1.3 JDB Add More Column at the Online Transaction Inquiry Report - (Finished)
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 A007 - Review FEEL View Plus Interface - (Finished)
+2.2 A008 - Improve test cases for Web Console - (Finished)
+2.3 A009 - Improve test cases for FEEL View Plus Platform - (Finished)  
+2.4 Write the UI guideline for the FEEL View Plus localize to DAB - (Ongoing-80%)
+
+//---9-1-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 MHB Add large number of BankNet BIN - (Finished)
+1.2 MHB Send SMS to Wrong Receiver - (Finished) 
+1.3 MHB Show the Represent Transaction in VISA BOAS Report - - (Finished)
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 C014 - Review test cases for FEEL RKL - (OnGoing)
+2.2 D014 - FEEL View Plus: Window 2008 Server  & Oracle11g - (Finished) 
+2.3 D015 - FEEL View Plus Task Server, Gate Server and File Server - (Finished)
+2.4 D016 - FEEL View Plus ATM Agent - (Finished)
+2.5 E003 - Setup the Web console run on the office environment - (Finished)
+2.6 E004 - Setup the JDK 64 bit enviroment - (Finished)
+2.7 E005 - Migrate the DongA DB to the new enviroment - (OnGoing)
+2.8 E006 - Migrate the DongA Console to the new enviroment and configure it to connect to the DB and Online - (OnGoing)
+2.9 E007 - Initialize some data for testing - (OnGoing)
+2.10 E008 - Setup for the ViewServer component - (Finished)
+
+//---10-1-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1. MHB Optimise for Device List and Device Matrix Page
+2. JDB Online Transaction Report Row Issue
+3. JDB UAT Server cannot show the Add Card BIN Page
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 C014 - Review test cases for FEEL RKL
+2.2 E005 - Migrate the DongA DB to the new environment
+2.3 E006 - Migrate the DongA Console to the new environment and configure it to connect to the DB and Online
+2.4 E007 - Initialize some data for testing
+2.5 E009 - FEEL View Plus Server: set up OS Window 2008 Server and Databbase Oracle11g	
+2.6 E010 - Migrate DongA DB FEEL View to the new environment	
+2.7 E011 - FEEL View Plus Task Server, Gate Server and File Server	
+2.8 E012 - FEEL View Plus ATM Agent	
+2.9 F004 - FEEL View Plus: setup Window 2008 Server and Databbase Oracle11g	
+2.10 F005 - FEEL View Plus Task Server, Gate Server and File Server		
+2.11 F006 - FEEL View Plus ATM Agent		
+2.12 F008 - Demo and Review Console's Function to Bank		
+2.13 F009 - Demo and Review FEEL View Plus Server's Function to Bank		
+2.14 F010 - Demo, Review FEEL View Plus Task Server, Gate Server and File Server		
+2.15 J001 - Test group of functions relate to View Server
+2.16 J002 - Testing for UI procedure and function set 
+2.17 J003 - Testing for interface integration between Console and Online  
+2.18 J004 - Database data integration check
+2.19 J005 - Bug fix 
+2.20 J006 - Switch [Online & Console] - test group of functions: SMS server, Email Server 
+2.21 J007 - Testing for UI procedure and function set 
+2.22 J008 - Testing for interface integration between Console and Online  
+2.23 J009 - Database data integration check
+2.24 J010 - Bug fix
+
+//---10-2-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 MHB Optimise for Device List and Device Matrix Page - (Finished)
+1.2 JDB Online Transaction Report Row Issue - (Finished)
+1.3 JDB UAT Server cannot show the Add Card BIN Page - (Finished)
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 E005 - Migrate the DongA DB to the new environment - (OnGoing)
+2.2 E006 - Migrate the DongA Console to the new environment and configure it to connect to the DB and Online - (OnGoing)
+2.3 E007 - Initialize some data for testing - (Finished)
+2.4 E009 - FEEL View Plus Server: set up OS Window 2008 Server and Databbase Oracle11g - (Finished)	
+2.5 E010 - Migrate DongA DB FEEL View to the new environment - (OnGoing)	
+2.6 E011 - FEEL View Plus Task Server, Gate Server and File Server - (Finished)	
+2.7 E012 - FEEL View Plus ATM Agent - (Finished)	
+2.8 F004 - FEEL View Plus: setup Window 2008 Server and Databbase Oracle11g - (OnGoing)	
+2.9 F005 - FEEL View Plus Task Server, Gate Server and File Server - (OnGoing)		
+2.10 F006 - FEEL View Plus ATM Agent - (OnGoing)		
+2.11 F008 - Demo and Review Console's Function to Bank - (OnGoing)		
+2.12 F009 - Demo and Review FEEL View Plus Server's Function to Bank - (OnGoing)		
+2.13 F010 - Demo, Review FEEL View Plus Task Server, Gate Server and File Server - (OnGoing)
+
+//---11-1-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 F008 - Demo and Review Console's Function to Bank		
+2.2 F009 - Demo and Review FEEL View Plus Server's Function to Bank		
+2.3 F010 - Demo, Review FEEL View Plus Task Server, Gate Server and File Server		
+2.4 J001 - Test group of functions relate to View Server
+2.5 J002 - Testing for UI procedure and function set 
+2.6 J003 - Testing for interface integration between Console and Online  
+2.7 J004 - Database data integration check
+2.8 J005 - Bug fix 
+2.9 J006 - Switch [Online & Console] - test group of functions: SMS server, Email Server 
+2.10 J007 - Testing for UI procedure and function set 
+2.11 J008 - Testing for interface integration between Console and Online  
+2.12 J009 - Database data integration check
+2.13 J010 - Bug fix
+
+3.1 PCI-DSS Review: study and understand the change list, try to compliance at hand job to meet PA-DSS requirement.
+3.2 TD Procedure: try to keep improvement TD Procedure.
+3.3 Training Course: try to finish the course and train some other people in our team.
+
+//---11-2-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 ECTK Unknown Status to the ATM Parts - (OnGoing-70%)
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 F004 FEEL View Plus: setup Window 2008 Server and Databbase Oracle11g - (Finished)	
+2.2 F005 FEEL View Plus Task Server, Gate Server and File Server - (Finished)		
+2.3 F006 FEEL View Plus ATM Agent - (Finished)
+2.4 J006 Test group of functions: SMS server, Email Server - (Finished)
+2.5 J007 Testing for UI procedure and function set - (Finished)
+2.6 J008 Testing for interface integration between Console and Online - (Finished) 
+2.7 J009 Database data integration check - (Finished)
+2.8 J010 Bug fix - (OnGoing-50%)
+2.9 J041 ATM Monitoring - (Finished)
+2.10 J042 Testing for UI procedure and function set - (Finished) 
+2.11 J043 Testing for interface integrate between Console and Online - (Finished) 
+2.12 J044 Database data integration check - (Finished)
+2.13 J045 Bug fix - (OnGoing-50%)
+
+3.1 PCI-DSS Review: study and understand the change list, try to compliance at hand job to meet PA-DSS requirement.
+3.2 TD Procedure: try to keep improvement TD Procedure.
+3.3 Training Course: try to finish the course and train some other people in our team.
+
+//---12-1-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 MHB Limit the User to assign the Admin Role - (OnGoing-30%)
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 F008-Demo and Review Console's Function to Bank - (Finished)
+2.2 F009-Demo and Review FEEL View Plus Server's Function to Bank - (Finished)
+2.3 F010-Demo, Review FEEL View Plus Task Server, Gate Server and File Server - (Finished)
+2.4 J046-Distribution - (Finished)
+2.5 J047-Testing for UI procedure and function set - (Finished)
+2.6 J048-Testing for interface integrate between Console and Online - (Finished)  
+2.7 J049-Database data integration check - (Finished)
+2.8 J050-Bug fix - (Finished)
+2.9 J051-Remote Control - (Finished)
+2.10 J052-Testing for UI procedure and function set - (Finished) 
+2.11 J053-Testing for interface integrate between Console and Online - (Finished)  
+2.12 J054-Database data integration check - (Finished)
+2.13 J055-Bug fix - (Finished) 
+2.14 J056-Ticket Management and Reporting - (Finished)
+2.15 J057-Testing for UI procedure and function set - (Finished) 
+2.16 J058-Testing for interface integrate between Console and Online - (Finished)  
+2.17 J059-Database data integration check - (Finished)
+2.18 J060-Bug fix - (Finished)
+
+3.1 PCI-DSS Review: study and understand the change list, try to compliance at hand job to meet PA-DSS requirement.
+3.2 TD Procedure: try to keep improvement TD Procedure.
+3.3 Training Course: try to finish the course and train some other people in our team.
+
+//---01.1-2015-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 F008-Demo and Review Console's Function to Bank
+2.2 F009-Demo and Review FEEL View Plus Server's Function to Bank
+2.3 F010-Demo, Review FEEL View Plus Task Server, Gate Server and File Server
+2.4 J043-ATM Monitoring Testing for interface integrate between Console and Online
+2.5 J044-ATM Monitoring Database data integration check
+2.6 J048-Distribution Testing for interface integrate between Console and Online  
+2.7 J049-Distribution Database data integration check
+2.8 J053-Remote Control Testing for interface integrate between Console and Online  
+2.9 J054-Remote Control Database data integration check
+2.10 J058-Ticket Management and Reporting Testing for interface integrate between Console and Online
+2.11 J059-Ticket Management and Reporting Database data integration check
+
+Training Courses 
+3.1 RKL Application 
+3.2 FEEL View Plus 
+3.3 FEEL Switch 
+3.4 Version Control
+
+//---01.1.2015-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+
+Vietnam - DAB - Upgrade to FEEL View Plus
+2.1 M001 List out the table for migrate
+2.2 M002 Create the script to migrate database
+2.3 M003 Test the report  with new database 
+2.4 M004 Testing migration database
+2.5 M005 Back up time
+2.6 N001 List out the table for migrate
+2.7 N002 Create the script to migrate database
+2.8 N003 Test the report  with new database
+2.9 N004 Testing migration database
+2.10 N004 Stand by
+
+//---01.4.2015-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+
+Vietnam - DAB - Upgrade to FEEL View Plus
+2.1 M004 Testing migration database
+2.2 N004 Testing migration database
+2.3 O001 Upgrade Procedure
+2.4 O002 Procedure Testing and Confirm
+2.5 O003 Update to Live
+2.6 O004 Production Monitoring
+2.7 P001 Upgrade Procedure
+2.8 P002 Procedure Testing and Confirm
+2.9 P003 Update to Live
+2.10 P004 Production Monitoring
+2.11 P005 Update to Live FEEL RKL and Monitoring
+2.12 S005 Retest between FEEL Switch and FEEL View Plus
+
+
+
+		
+ 
+
+
+
+
+
+//--------------------------------------------------------------------------------------------------------
+23/31
+FEELSwitch3.1_Console(MHB)_N2.1_sp019
+FEELSwitch3.0_Console(JDB)_N1.8_sp002
+FEELSwitch3.1_Console(ECTK)_N2.1_sp005
+
+
+
+ketnooi.com/forum/viewtopic.php?f=69&t=22651
+http://ketnooi.com/forum/viewtopic.php?f=69&t=52503
+
+
+http://www.mamnonkhanhhoi.edu.vn/?frame=home
+http://ngoinhatuduy.edu.vn/
+
+P@ssw0 rd~!#$%^&*()_+[]{};'\,./:"|<>?*-+
+P@ssw0rd!$*_'\,./:*-   //   r72e65737Y59Q51|17R52N4E{7B|E
+P@ssw0rd!$*_,./:*-     //   r72e65737Y59Q51|17R52N4E{7B|0E|0F#23|1E|18|10|1A|08o6F
+
+1 3 5 7 8 9 11 13 15 17 18 23 28 
+
+var #tickets = load (/Tickets)
+
+loop through #tickets as #curTick
+	if #curTick/State = "Complete" then
+		if DaysBetween(curTick/LastModified, Today())>=7  then
+			set #curTick/State = "Close"
+			save #curTick
+			message "The item " + #curTick/Title + " is Closed”
+		end if
+    end if
+end lopp
+
+With 10+ years experience and 50+ projects are done on Java Technologies. I can help you to solve from small assignments to complex issues on job working.
+
+
