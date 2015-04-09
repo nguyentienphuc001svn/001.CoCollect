@@ -1,0 +1,5 @@
+
+1. Location
+/etc/hosts
+
+2. Restart PC

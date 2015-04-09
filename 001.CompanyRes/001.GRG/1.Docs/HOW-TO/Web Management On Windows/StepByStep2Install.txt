@@ -1,0 +1,42 @@
+Step1: Install and Config Oracle - Refer to the Manual for step and parameters
+   1.1: Install the oracle DB
+   1.2: Create the DB --> 1 or many DB with diff names
+         - DB server la localhost (predefined in the hosts file)
+         - Can use IP or name (predefined in the hosts file)
+   1.3: Configure the Listener
+   1.4: Set net Name va test bang sys or system voi password da cai san
+
+
+
+Step 2: Create a normal user (diff from sys and system as sysdba) - the pwd can be same or diff
+- This is the working user for IDE and Eclipse connect
+- Import the DB by USER JUSt CREATED
+- Script is provided
+
+Note:
+- Oracle has tablespace - diff tablespace is all diff
+- All the Oracle DBs tables resources belong to the user created them - we can assign to other users
+
+
+
+Step 3: Run the Application
+- Make sure the DB run by Test at Assistant, then 
+		start the lsnrctl>start
+		start the instance by sqlplus: sqlplus / as sysdba >connect / as sysdba >startup 
+- Connect to DB with user XXX and check for user table
+- Change the connection configuration in context.xml
+- Run the ATMP
+- Run the ViewServer/SMS Server/ EMail Server
+- Run the to Tomcat - Remeber to set the Variables enviroment
+		check all the parameters on the console are correct
+- Run the application using http://127.0.0.1:8080/emapp/
+- Default pass is admin/000000
+
+Problen/Solving
+1: Invalid Password
+- Check for the oracle DB connection "url" and the "port" 1521 (default, set on the setting of listener) in the context.xml
+- Besides context.xml file, if the errors happens, check on the cmsbean.xml file
+- Set the timeout to see which lines of DB configuration that the app access to connect to the DB
+2: No Listener
+- Check to correctly follow all the instructions in the step 1
+- Restart the lsnr and db services

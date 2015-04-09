@@ -1,0 +1,12 @@
+document.cookie = '__cst=65be5e1ee0676460;path=/';
+document.cookie = '__csv=cae5252264435d0a|0;path=/;expires=' + new Date(new Date().getTime() + 7776000000).toGMTString();
+if ('b2dc6f3a14fb1200'!='1') {
+document.cookie = '__csnv=b2dc6f3a14fb1200;path=/;expires=' + new Date(new Date().getTime() + 172800000).toGMTString();
+document.cookie = '__ctl=cae5252264435d0a1;path=/;expires=' + new Date(new Date().getTime() + 1800000).toGMTString();
+}
+else 
+document.cookie = '__ctl=cae5252264435d0a1;path=/;expires=' + new Date(new Date().getTime() + 1800000).toGMTString();
+  if (typeof(CrowdScienceAdCamp)!='undefined') CrowdScienceAdCamp.cleanup();
+  if (typeof(CrowdScience.states)!='undefined') CrowdScience.state = CrowdScience.states.no_offer;
+  CrowdScience.state = 101; // cs.states.no_offer;
+if (typeof(CrowdScience.post_ping)=='function') CrowdScience.post_ping();

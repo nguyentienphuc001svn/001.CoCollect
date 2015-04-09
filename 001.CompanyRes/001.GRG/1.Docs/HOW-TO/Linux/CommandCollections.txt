@@ -1,0 +1,25 @@
+
+1. Change to other user, in base directory
+#su - oracl#
+#cd
+
+#cd .. -- Truoc 1 folder 
+
+2. Shutdown Linux OS
+#poweroff
+
+3. Commands to check whether new devices is recognized or not
+#lsusb --show all the device
+#lspci
+
+#cat /proc/bus/usb/devices --also show all the devices, note the manufacturers and products to recognize
+
+#dmesg --should be used to notify linux that new devices are pluged ???
+
+4. To find any thing
+#find / -name cmdsrv
+
+
+
+
+

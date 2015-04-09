@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Utility Bar :: NC State University</title>
+<link rel="stylesheet" type="text/css" href="index_data/css.css">
+
+<script type="text/javascript" src="index_data/utility-bar-toggle.js"></script><!-- base href="http://www.ncsu.edu/brand/utility-bar/iframe/index.php?color=red_on_white&inurl=oit.ncsu.edu&center=left" -->
+</head>
+
+<body>
+<div id="utility_bar">
+	<div id="head_in">
+						<h1 class="logo" title="North Carolina State University"><a href="http://www.ncsu.edu/">North Carolina State University</a></h1>
+						<h2 class="access">Header Navigation:</h2>
+						<ul id="topnav">
+							<li><a href="http://www.ncsu.edu/directory/" title="Find People at NC State University">Campus Directory</a></li>
+							<li><a href="http://www.lib.ncsu.edu/" title="NC State University Libraries">Libraries</a></li>
+							<li><a href="http://mypack.ncsu.edu/" title="NC State University MyPack Portal">MyPack Portal</a></li>
+							<li><a href="http://www.ncsu.edu/campus_map/" title="NC State University Campus">Campus Map</a></li>
+						    <li class="last"><a href="http://search.ncsu.edu/" onclick="swaptabs('open','utility_bar'); return false;">Search NCSU.EDU</a></li>
+						</ul>
+  </div>
+</div>
+<div id="ncsu_bar">
+    <div id="open"> 
+        <h1 class="logo" title="North Carolina State University"><a href="http://www.ncsu.edu/">North Carolina State University</a></h1>
+        <form action="http://www.google.com/search" method="get" name="mySearch" id="mySearch" class="sitesearch_form">
+            <input name="as_sitesearch" value="ncsu.edu" type="hidden">        
+                        <input name="hq" id="search_site" value="inurl:oit.ncsu.edu" type="radio">
+            <label for="search_site">Search this Site</label>
+            <input name="hq" id="ncsu" value="inurl:ncsu.edu" checked="checked" type="radio">
+            <label for="ncsu">ncsu</label>
+                        <input name="q" size="18" id="search" onfocus="if(this.value=='google search')value=''" onblur="if(this.value=='')value='google search';" value="google search" type="text">
+            <input class="btn_qlinks" src="index_data/head_btn_search.gif" id="search_button" alt="search" title="search" type="image">
+            <input class="btn_close" src="index_data/head_btn_close.gif" id="closeh_button" alt="close" title="close" onclick="swaptabs('utility_bar','open'); return false;" type="image">
+        </form>
+    </div>
+</div> 
+
+</body></html>

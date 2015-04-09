@@ -1,0 +1,22 @@
+
+1. Rules
+Folder Online chinh la Feel ATMP
+Tat ca cac service deu nam trong ATMP --> fai start ATMP len
+
+
+
+2. Code dang ky ATMP
+[feel@localhost bin]$ ./lictool  -g
+990eff47f59cd2208d791e1ac09a1643
+
+[feel@localhost bin]$ ./lictool  -d990eff47f59cd2208d791e1ac09a1643 -nGRG -vSW31 -m1 -i100
+
+
+
+3. ATMP Start/Stop
+At ../Online/bin
+#./fstart
+#./fstop
+
+
+

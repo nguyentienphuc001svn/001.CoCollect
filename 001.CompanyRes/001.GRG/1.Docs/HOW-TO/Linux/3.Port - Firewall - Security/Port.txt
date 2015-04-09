@@ -1,0 +1,25 @@
+iptables = firewall = need to add rule for in and out
+
+
+1. Open a Port
+iptables -A INPUT -p tcp -i eth0 --dport 8889 --sport 8889 -m state --state NEW -j ACCEPT
+iptables -A OUTPUT -p tcp -o eth0 --dport 8889 --sport 8889 -m state --state NEW -j ACCEPT
+
+
+
+Cancel all the policies
+#iptables -F
+
+List all the policies
+#iptables -L
+
+
+
+Restart iptables
+#service iptables save
+#service iptables restart
+
+
+View all the Avai and Listening Port
+#netstat -anp --tcp --udp | grep LISTEN
+#lsof | grep 888

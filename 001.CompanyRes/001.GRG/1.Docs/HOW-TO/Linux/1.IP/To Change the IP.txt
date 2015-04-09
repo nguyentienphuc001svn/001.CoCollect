@@ -1,0 +1,37 @@
+
+1.
+# vi /etc/sysconfig/network-scripts/ifcfg-eth0
+ 
+#netconfig -- To go to the GUI
+
+2.
+#service network save 
+#service network restart -- To restart the changing of IP
+
+3. 
+#service network reload
+#ifconfig eth0
+
+4.Static IP
+# Intel Corporation 82545EM Gigabit Ethernet Controller (Copper)
+DEVICE=eth0
+BOOTPROTO=none
+ONBOOT=yes
+HWADDR=00:0c:29:b4:8f:df
+IPADDR=192.168.11.190
+NETMASK=255.255.255.0
+GATEWAY=192.168.11.1
+
+5.DHCP
+# Intel Corporation 82545EM Gigabit Ethernet Controller (Copper)
+DEVICE=eth0
+BOOTPROTO=dhcp
+ONBOOT=yes
+HWADDR=00:0c:29:b4:8f:df
+
+
+
+
+
+
+

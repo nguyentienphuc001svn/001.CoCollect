@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;	
+}
+
+#ncsu_branding_bar {
+	margin: 0;
+	width: 100%;
+	border: 0;
+	padding: 0;
+	height: 31px;
+}

@@ -1,0 +1,22 @@
+konaSafe(function(){
+teUrl='http://te.kontera.com/ContentLink/ContentLink?publisherId=95386&layout=adlinks&sId=2193,187,94&cb=1316073356&creative=L&cn=vn';
+directAdsPrefetch=true;
+setMaxLinksOnPage(8);
+reJsonResponse({"AutoReport":{"rep":"re432.colo8.sjc.kontera.com","stopic":4},"jsABParameters":{"js_audience_targeting":true,"js_comscore_enabled":1,"js_feed_click_delay":true,"js_interstitial_probability":"0","js_legolas_enabled":1,"js_mobile_exclusivity":false,"js_one_layer":1,"js_related_enabled":0,"js_related_unit_settings":"disabled"},"konaLat":"10.75","konaLon":"106.666702","konaPostalCode":"","konaUserGuid":"C48FB878-DF4F-11E0-80E3-AA0011BCA558","pageHash":"jp_AsidLsntekkgrtusotlUeentroaepxnciteOsrologlraldtiiOmdnrattfcaauamagfeeeritLsldlrnueepeduesebunospi","scripts":[{"scriptURL":"http://rt.legolas-media.com/lgrt?ci=2&ti=253&kch=[SUPER_TOPIC]&kst=[SITE_DOMAIN]&ksp=[SEARCH_PHRASE]"},{"postCode":"COMSCORE.beacon({c1:8,c2:\"6036297\",c3:\"12345678\"});","scriptURL":"http://b.scorecardresearch.com/beacon.js"}],"topics":[[2193,29,4]]});
+pageTopicVector="";
+addContentLink(20,1154403,'Linux%20question',20,1,"","56121");
+addContentLink(33,324375,'Install%20Software',33,1,"","56121");
+addContentLink(233,21062354,'Package%20Manager',233,1,"","56121");
+addContentLink(310,173890,'Linux%20Distribution',310,1,"","56121");
+addContentLink(461,3891,'Linux%20users',461,1,"","56121");
+addContentLink(1610,14910566,'Packaging%20Tool',1610,1,"","56121");
+addContentLink(1676,3883,'Red%20Hat',1676,1,"","56121");
+addContentLink(2469,1333848,'already%20installed',2469,1,"","56121");
+}, "reaction response");
+konaSafe(function(){
+konaTweakMode=83971270;
+konaRequestId="222081562527419281";
+konaPageLoadSendReport=0;
+setKonaResults(1,1,"L|0|0|0|white|none&pRfr=http://www.linuxforums.org/forum/linux-tutorials-howtos-reference-material/64958-how-install-software-linux.html&dc_aff_id=");
+onKonaReturn(1);
+}, "reaction response");

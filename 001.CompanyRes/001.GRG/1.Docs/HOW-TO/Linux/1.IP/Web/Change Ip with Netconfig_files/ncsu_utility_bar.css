@@ -1,0 +1,24 @@
+ /* CSS Document */
+body { margin:0; padding:0;}
+
+/* HEADER */
+div#utility_bar * {margin:0; padding:0; padding-left:10px;}
+div#utility_bar {font-family:Arial,Helvetica,sans-serif; font-size:10px; background:#FFF; min-height:31px; height:31px;}
+div#utility_bar .access {height:0; width:0; overflow:hidden; position:absolute;}
+div#utility_bar h1.logo a{width:165px; height:31px; overflow:hidden; text-indent:-9000px; background:url(white_brick.gif) no-repeat; float:left;}
+div#utility_bar #linkBox ul {padding:6px 0 6px 0; float:left; list-style:none;}
+div#utility_bar #linkBox li {list-style:none; float:left; font-size:1em; text-transform:uppercase; padding:3px 12px 3px 2px; background:url(grey_lines.gif) no-repeat right center;}
+div#utility_bar #linkBox li.last {background:none; padding-right:0;}
+div#utility_bar #linkBox li a {color:#C00; text-decoration:none;}
+div#utility_bar #linkBox li a:hover {text-decoration:underline;}
+
+div#utility_bar .access {height:0; width:0; overflow:hidden; position:absolute; left:-9000px;}
+
+/*************************/
+div#utility_bar #searchBox #search_button {position:relative; top:5px;}
+div#utility_bar #searchBox #closeh_button {position:relative; top:5px;}
+div#utility_bar #searchBox #search {margin-left:5px;}
+div#utility_bar #searchBox {display:none; text-align:left;}
+div#utility_bar #searchBox form {margin-left:390px;}
+div#utility_bar #searchBox label {text-transform:uppercase; font-weight:normal; color:#C00; font-size:110%; margin: 0px 5px;; line-height: 20px;}
+div#utility_bar #searchBox input#search {width:150px; background:#fff url(head_txtbox_shadow.gif) no-repeat; border:none;}
