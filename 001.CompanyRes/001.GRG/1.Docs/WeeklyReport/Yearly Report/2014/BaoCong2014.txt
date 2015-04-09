@@ -1,0 +1,74 @@
+
+//1
+Vietnam - MHB - Upgrade to FEEL Switch Management Console 3.1
+1.1 Fix the issue about device status report, that cause the ViewServer usually hang - (Finished) 
+1.2 Modify the VISA Report as MHB requirement - (Finished)
+1.3 Enhance the password from Console to DB to complex case - (Finished) 
+1.4 Enhance the Console user password to complex case - (Finished) 
+1.5 Do the SMS Server - (Finished)
+1.6 Do the SMS Server - (Finished) 
+1.7 Enhance the real time transaction monitoring to limit staffs to see transactions within their branch only - (Finished) 
+1.8 Enhance the User list information to list users based on branch and the role of admin user - (Finished) 
+1.9 Create view tables to support MHB to do their own SMS counting report  - (Finished)
+1.10 ViewServer cannot detect offline terminals - (Finished) 
+1.11 Justify the Maintenance SMS to delay it for 5 minutes as MHB request - (Finished) 
+
+
+//2
+Vietnam - DAB - Upgrade to FEEL View Plus 1.0
+2.1 Review FEEL View Plus Interface - (Finished)
+2.2 Improve test cases for Web Console - (Finished)
+2.3 Improve test cases for FEEL View Plus Platform - (Finished)  
+2.4 Setup the Web console run on the office environment - (Finished)
+2.5 Setup the JDK 64 bit enviroment - (Finished)
+2.6 Setup for the ViewServer component - (Finished)
+2.7 FEEL View Plus Server: set up OS Window 2008 Server and Databbase Oracle11g - (Finished)
+2.8 FEEL View Plus Task Server, Gate Server and File Server - (Finished)
+2.9 FEEL View Plus ATM Agent - (Finished)
+2.10 Test group of functions relate to View Server - (Finished)
+2.11 Test group of functions: SMS server, Email Server - (Finished) 
+2.12 FEEL View Plus - ATM Monitoring Testing - (Finished)
+2.13 FEEL View Plus - Distribution Testing - (Finished)
+2.14 FEEL View Plus - Remote Control Testing - (Finished)
+2.15 FEEL View Plus - Ticket Management and Reporting Testing - (Finished)
+
+
+//3
+Vietnam - MHB - Technical Support Issues base on Web Console 
+3.1 Remove the loading control that delays page showing speed - (Finished) 
+3.2 Separate the maintenance mode into two types, config to send sms for both. It makes to decrease total of sent sms - (Finished) 
+3.3 Show the number of capture cards and deposited envelops in an ATM - (Finished) 
+3.4 Add new function to allow start and stop Switch on the Console - (Finished) 
+3.5 Visa BOAS Show Withdraw Tranx with Unsuccessful Reversal Txn - (Finished) 
+3.6 Visa BOAS Wrong Display in Currency in Sett Report 110 - (Finished) 
+3.7 Change on sending SMS Rule at Night - (Finished) 
+3.8 Allow expired account to renew password - (Finished) 
+3.9 Add large number of BankNet BIN - (Finished) 
+3.10 Show the Represent Transaction in VISA BOAS Report - (Finished) 
+3.11 Optimise for Device List and Device Matrix Page - (Finished) 
+
+
+//4
+Vietnam - SGB - Technical Support Issues base on Web Console 
+4.1 Monitoring and fix the issue about Cash Load - (Finished) 
+4.2 The issue that some info display twice on cash box page - (Finished)
+
+
+
+//5
+Philippine - ECTK - Web Console Technical Support 
+5.1 Load on available Card on Card Information - (Finished) 
+5.2 Cannot Approve the Card in the Application Form - (Finished) 
+5.3 Cannot Confirm Making Card - (Finished)
+5.4 Card Issue Process, Cannot match the Card Number to the Card Type - (Finished)
+5.5 Unknown Status to the ATM Parts - (Finished) 
+ 
+
+//6 
+Laos - JDB - Web Console Technical Support 
+6.1 Add More Column at the Online Transaction Inquiry Report - (Finished) 
+6.2 Online Transaction Report Row Issue - (Finished) 
+6.3 UAT Server cannot show the Add Card BIN Page - (Finished)
+
+
+
