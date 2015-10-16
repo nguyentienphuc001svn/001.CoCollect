@@ -27,7 +27,25 @@ Unit 10B, 25th Floor, Cable TV Tower, 9 Hoi Shing Road, Tsuen Wan, N.T., Hong Ko
 Vietnam Office: 436B/22 Ba Thang Hai St., Ward12, Dist. 10, HCMC 
 Email: kevin.nguyen@grgbanking.com Website: www.grgbanking.com 
 
+//-------------------------------------------------------------------------------------------------------------------------------
 
+
+
+~
+Lao CUP, Upload Code,
+BOAS
+   Cannot view the details of transaction on Adjustment, Represent page
+   Fee Collection reason codes dont show
+View All Transaction, Show ra BOAS, Chi dinh cac field can thiet khi add Terminal
+
+
+Lam them phan Report BOAS va ghi nhan nhung ai lam gi tren BOAS
+Filter User ID and Menu ID hien ra het cac record chu khong fai 10
+Chinh lai size p007 cot oldpassword usid usnm
+Xoa DAB data in Exi VAB VIB
+
+
+//-------------------------------------------------------------------------------------------------------------------------------
 1. Vietnam - MHB
 1.1 
 + ATM Idle Status Case
@@ -436,7 +454,89 @@ Vietnam - DAB - Upgrade to FEEL View Plus
 2.11 P005 Update to Live FEEL RKL and Monitoring
 2.12 S005 Retest between FEEL Switch and FEEL View Plus
 
+//---01.5.2015-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 Online Skype Support for the SMS Technical - (Finished)
+1.2 Fixed for the VISA BOAS Settlement report for new Chargeback case - (Finished) 
 
+Vietnam - DAB - Upgrade to FEEL View Plus 
+2.1 O003 Update to Live - (OnGoing) 
+2.2 O004 Production Monitoring - (OnGoing) 
+2.3 P003 Update to Live - (OnGoing) 
+2.4 P004 Production Monitoring - (OnGoing) 
+2.5 P005 Update to Live FEEL RKL and Monitoring - (OnGoing) 
+2.6 S005 Retest between FEEL Switch and FEEL View Plus - (OnGoing)
+2.7 T001 Upgrade Procedure - (OnGoing)
+2.8 T002 Procedure Testing and Confirm - (OnGoing)
+2.9 T003 Update to Live - (OnGoing)
+2.10 T004 Production Monitoring - (OnGoing)
+2.11 Fixed for the Console Back button Page Not Found - (Finished)
+2.12 Fixed for the FD Audit in Version Control - (Finished)
+
+Project Issue Management Procedure 
+3.1. Know about the procedure 
+3.2. Start go procedure by TD 
+3.2.1, Register new Project Request and follow up by procedure and finally related patch to customer(TD) 
+3.2.2, Register new bug request from internal team 
+3.2.3, Register new change request from customer side, this is sub item included into the patch of Item 1 
+3.2.4, Record daily summary report
+
+//---01.6.2015-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 Help to manage ATM on Console to match the new BIDV bank rules - (Ongoing) 
+
+Laos - JDB - Console BOAS for CUP
+2.1 Do the Connection Management like sign on, echo test to CUP - (Finished) 
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+3.1 O003 Update to Live - (Ongoing) 
+3.2 O004 Production Monitoring - (Ongoing) 
+3.3 P003 Update to Live - (Ongoing) 
+3.4 P004 Production Monitoring - (Ongoing) 
+3.5 P005 Update to Live FEEL RKL and Monitoring - (Ongoing) 
+3.6 S005 Retest between FEEL Switch and FEEL View Plus - (Ongoing)
+3.7 T001 Upgrade Procedure - (Ongoing)
+3.8 T002 Procedure Testing and Confirm - (Ongoing)
+3.9 T003 Update to Live - (Ongoing)
+3.10 T004 Production Monitoring - (Ongoing)
+3.11 Do the function add new transaction type - (Finished)
+3.12 Fix all the field in the Add Terminal - (Finished)
+3.13 Develop the account management rule to match the DAB PCIDSS rule - (Ongoing)
+
+Project Issue Management Procedure 
+4.1. Know about the procedure 
+4.2. Start go procedure by TD 
+4.2.1, Register new Project Request and follow up by procedure and finally related patch to customer(TD) 
+4.2.2, Register new bug request from internal team 
+4.2.3, Register new change request from customer side, this is sub item included into the patch of Item 1 
+4.2.4, Record daily summary report
+
+//---01.7.2015-------------------------------------------------
+Vietnam - MHB - Web Console Technical Support
+1.1 Help to manage ATM on Console to match the new BIDV bank rules 
+
+Laos - JDB - Console BOAS for CUP
+
+Vietnam - DAB - Upgrade to FEEL View Plus 
+3.1 O003 Update to Live 
+3.2 O004 Production Monitoring 
+3.3 P003 Update to Live 
+3.4 P004 Production Monitoring 
+3.5 P005 Update to Live FEEL RKL and Monitoring 
+3.6 S005 Retest between FEEL Switch and FEEL View Plus
+3.7 T001 Upgrade Procedure
+3.8 T002 Procedure Testing and Confirm
+3.9 T003 Update to Live
+3.10 T004 Production Monitoring
+
+Project Issue Management Procedure 
+4.1. Know about the procedure 
+4.2. Start go procedure by TD 
+4.2.1, Register new Project Request and follow up by procedure and finally related patch to customer(TD) 
+4.2.2, Register new bug request from internal team 
+4.2.3, Register new change request from customer side, this is sub item included into the patch of Item 1 
+4.2.4, Record daily summary report
+ 
 
 		
  
@@ -445,6 +545,7 @@ Vietnam - DAB - Upgrade to FEEL View Plus
 
 
 
+ 
 //--------------------------------------------------------------------------------------------------------
 23/31
 FEELSwitch3.1_Console(MHB)_N2.1_sp019
