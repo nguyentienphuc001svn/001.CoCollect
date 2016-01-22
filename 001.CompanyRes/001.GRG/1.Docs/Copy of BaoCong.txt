@@ -29,20 +29,45 @@ Email: kevin.nguyen@grgbanking.com Website: www.grgbanking.com
 
 //-------------------------------------------------------------------------------------------------------------------------------
 
-
-
-~
-Lao CUP, Upload Code,
-BOAS
+VISA BOAS
    Cannot view the details of transaction on Adjustment, Represent page
    Fee Collection reason codes dont show
-View All Transaction, Show ra BOAS, Chi dinh cac field can thiet khi add Terminal
+   Lam them phan Report BOAS va ghi nhan nhung ai lam gi tren BOAS
 
+Reup Console // Report (tml_status4.0, Sync termimal fv to console) ~~~ tmlinfo (Chinh lai size p007 cot oldpassword usid usnm) ~~~ 
+~// table ve tmlinfo va table ve user ~
 
-Lam them phan Report BOAS va ghi nhan nhung ai lam gi tren BOAS
+-------->--> Risk Management --> keystroke ---> Login sign off ---> Online Enquiry(tat ca cac trang che PAN) 
+Chi dinh cac field can thiet khi add Terminal
+Add/Edit Terminal co loi
 Filter User ID and Menu ID hien ra het cac record chu khong fai 10
-Chinh lai size p007 cot oldpassword usid usnm
+
 Xoa DAB data in Exi VAB VIB
+FVP Comsumer Server hoat dong the nao
+Danh sach cac may con hoat dong 
+Trang tong ket so may normal ben ngoai
+VC connection Error
+Lam trang traxn inquiry
+
+Fix loi cho a Vu - Phan Quyen - Hieu chinh cac chuc nang - Viet mail nhac nho
+Loi Hot Card
+
+Cluster
+Wrapper=Chep ConfigTool va Host //
+DB chep lai table P007 // Lay row Node Info
+
+VietA
+   Terminal
+   Test voi Phong ve message
+
+   
+ SGB 
+    CashLoad
+	Thread.Sleep co nam o tren khong 
+	Loai bo setAutoCommit at update offline
+	
+	
+   
 
 
 //-------------------------------------------------------------------------------------------------------------------------------
