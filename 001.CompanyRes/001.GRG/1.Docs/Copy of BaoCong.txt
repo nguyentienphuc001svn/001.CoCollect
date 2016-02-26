@@ -5,15 +5,17 @@
 526981 20130415
 574318 20140722   
 
+---
 VN:
 SVN kevin/Kevin120
+---
 CN:
-Email account : kevin.nguyen@grgbanking.com
-OA
-VPN grg20130528 / grg2014
-SVN Info in Email Sam
-TD
-QQ number : 486805773 /
+~Email: kevin.nguyen@grgbanking.com
+~OA: nguyentienphuc/Kevin120
+~VPN nguyentienphuc/grg2014
+~SVN Info in Email Sam
+~TD kevin.nguyen/grg2014
+~QQ number : 486805773 /
 
 China ISD SVN FPT: Email
 http://10.1.3.251/svn/FEEL Switch3.1/PR2/Project/PA_DSS认证
@@ -34,6 +36,7 @@ VISA BOAS
    Fee Collection reason codes dont show
    Lam them phan Report BOAS va ghi nhan nhung ai lam gi tren BOAS
 
+CONSOLE
 Reup Console // Report (tml_status4.0, Sync termimal fv to console) ~~~ tmlinfo (Chinh lai size p007 cot oldpassword usid usnm) ~~~ 
 ~// table ve tmlinfo va table ve user ~
 
@@ -41,6 +44,9 @@ Reup Console // Report (tml_status4.0, Sync termimal fv to console) ~~~ tmlinfo 
 Chi dinh cac field can thiet khi add Terminal
 Add/Edit Terminal co loi
 Filter User ID and Menu ID hien ra het cac record chu khong fai 10
+Cac trang phan Risk Management co loi
+Trang Txn Monitor nho sum them t_VNBCtxnlog
+Lma them trang JCB BOAS
 
 Xoa DAB data in Exi VAB VIB
 FVP Comsumer Server hoat dong the nao
@@ -48,27 +54,26 @@ Danh sach cac may con hoat dong
 Trang tong ket so may normal ben ngoai
 VC connection Error
 Lam trang traxn inquiry
-
-Fix loi cho a Vu - Phan Quyen - Hieu chinh cac chuc nang - Viet mail nhac nho
-Loi Hot Card
+FV Khong Show dc ORG va AREA
+1 May o dau ra
 
 Cluster
 Wrapper=Chep ConfigTool va Host //
 DB chep lai table P007 // Lay row Node Info
 
-VietA
+
+
+$$$VietA
    Terminal
    Test voi Phong ve message
 
+
    
- SGB 
+$$$SGB 
     CashLoad
 	Thread.Sleep co nam o tren khong 
 	Loai bo setAutoCommit at update offline
-	
-	
-   
-
+	Quet code trc khi release cho SGB
 
 //-------------------------------------------------------------------------------------------------------------------------------
 1. Vietnam - MHB
